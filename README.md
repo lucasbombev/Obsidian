@@ -13,7 +13,7 @@ Para visualizar e editar estas notas:
 1. Instale o [Obsidian](https://obsidian.md/).
 2. Clone este repositório no seu computador:
    ```bash
-   git clone https://github.com/seu-usuario/seu-repositorio.git
+   git clone https://github.com/lucasbombev/Obsidian.git
    ```
 3. Abra o diretório clonado como um Vault no Obsidian.
 
