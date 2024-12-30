@@ -1,0 +1,2 @@
+# Obsidian
+My Brain Notes
