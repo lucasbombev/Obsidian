@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "78b43f3d59a1ec6e",
+        "id": "bc5a5bb643f1601c",
         "type": "tabs",
         "children": [
           {
-            "id": "6fe3cc948be466c7",
+            "id": "750b0e04e629d990",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "📁📖Vestibulares/📂 Matemática/📄Conjunto dos Números Naturais.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nova aba"
+              "title": "📄Conjunto dos Números Naturais"
             }
           }
         ]
@@ -80,63 +84,27 @@
     "type": "split",
     "children": [
       {
-        "id": "b4c3cbacfd514a7c",
+        "id": "4d9ad36fdc3bbbd8",
         "type": "tabs",
         "children": [
           {
-            "id": "11ca50ee3b2505f5",
+            "id": "22eb313d84dd7178",
             "type": "leaf",
             "state": {
-              "type": "backlink",
-              "state": {
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-coming-in",
-              "title": "Backlinks"
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
             }
           },
           {
-            "id": "56c7451d74e45c6c",
+            "id": "b10045556d302fd5",
             "type": "leaf",
             "state": {
-              "type": "outgoing-link",
-              "state": {
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-going-out",
-              "title": "Links de saída"
-            }
-          },
-          {
-            "id": "fb78a63ea45085cb",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true
-              },
-              "icon": "lucide-tags",
-              "title": "Tags"
-            }
-          },
-          {
-            "id": "71c2fa52f36f860a",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "Welcome.md"
-              },
-              "icon": "lucide-list",
-              "title": "Sumário de Welcome"
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           }
         ]
@@ -153,11 +121,44 @@
       "canvas:Criar novo canvas": false,
       "daily-notes:Abrir a nota de hoje": false,
       "templates:Inserir modelo": false,
-      "command-palette:Abrir paleta de comandos": false
+      "command-palette:Abrir paleta de comandos": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a1386f9ced4787d2",
+  "active": "750b0e04e629d990",
   "lastOpenFiles": [
+    "📁📖Vestibulares/📂 Língua Portuguesa/📄Apresentação e Ortografia.md",
+    "📁💻Software/📁Lógica de Programação em Python/📄Estruturas de Repetição While.md",
+    "🧠 GUIA.md",
+    "🌀CICLOS.md",
+    "📁📖Vestibulares/📂 Matemática/📄Conjunto dos Números Naturais.md",
+    "Sem título.md",
+    "📁💻Software/📁Sistemas Embarcados",
+    "📁📖Vestibulares/📂 Biologia",
+    "📁📖Vestibulares/📂 Filosofia",
+    "📁📖Vestibulares/📂 Física",
+    "📁📖Vestibulares/📂 Geografia",
+    "📁📖Vestibulares/📂 História",
+    "📁📖Vestibulares/📂 Matemática",
+    "📁📖Vestibulares/📂 Química",
+    "📁📖Vestibulares/📂Sociologia",
+    "📁📖Vestibulares/📂 Redação",
+    "📁📖Vestibulares/📂 Filosofia.md",
+    "📁📖Vestibulares/📂 Língua Portuguesa.md",
+    "📁💻Software/📁Lógica de Programação em Python.md",
+    "📁📖Vestibulares/📂 Redação.md",
+    "📁📖Vestibulares/📂 Matemática.md",
+    "📁📖Vestibulares/📂 Língua Inglesa.md",
+    "📁📖Vestibulares/📂 Geografia.md",
+    "📁📖Vestibulares/📂 Biologia.md",
+    "📁📖Vestibulares/📂 Química.md",
+    "📁📖Vestibulares/📂Sociologia.md",
+    "CBMPB-ENEM-ESA/Sociologia.md",
+    "📁📖Vestibulares/📂 Física.md",
+    "📁📖Vestibulares/📂 História.md",
+    "E.md",
+    "Corpo de Bombeiros Militar da Paraíba.md",
     "Welcome.md"
   ]
 }
