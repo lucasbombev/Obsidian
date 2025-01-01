@@ -2,7 +2,7 @@
 
 Bem-vindo ao seu sistema de estudos organizado no **Obsidian**! Este guia ajudará você a estruturar e acompanhar seu progresso na preparação para o concurso.
 
-Vamos iniciar apenas com as básicas: Português, Matemática, Python e Embarcados ao fazer uma progressão boa, vamos adicionando disciplinas.
+***Vamos iniciar apenas com as básicas: Português, Matemática, Python e Embarcados*** ao fazer uma progressão boa, vamos adicionando disciplinas.
 
 ---
 
