@@ -42,4 +42,4 @@ Este repositório está licenciado sob a [MIT License](LICENSE). Sinta-se à von
 
 ---
 
-**Autor**: [Lucas Borges](https://github.com/bombev)
+**Autor**: [Lucas G. B. Medeiros](https://github.com/bombev)
