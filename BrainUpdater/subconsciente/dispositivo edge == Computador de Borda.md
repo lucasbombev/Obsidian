@@ -1,3 +1,6 @@
+Tags: #Software #IOT #SistemasEmbarcados #IFRN 
+___
+
 ## O que são?
 Dispositivos **edge** são equipamentos que realizam processamento de dados localmente, no "limite" da rede, próximo à fonte de geração de dados, em vez de depender exclusivamente de servidores ou da nuvem para executar essas tarefas.
 ## Características principais de dispositivos edge:

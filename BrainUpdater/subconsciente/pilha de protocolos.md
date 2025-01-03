@@ -1,3 +1,6 @@
+Tags: #Software #IOT #SistemasEmbarcados #IFRN
+___
+
 ## O IP
 O IP (Internet Protocol) é o protocolo fundamental da Internet, responsável por permitir a interconexão de diversas redes de comunicação por meio do roteamento de pacotes de dados.
 

@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "735057af414438eb",
+        "id": "30d0a2ad01de9e01",
         "type": "tabs",
         "children": [
           {
-            "id": "da42ca128a4d1de7",
+            "id": "acdb6804c734ce94",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -184,12 +184,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "da42ca128a4d1de7",
+  "active": "acdb6804c734ce94",
   "lastOpenFiles": [
-    "subconsciente/dispositivo edge == Computador de Borda.md",
+    "Internet das cosias.md",
     "📁💻Software/📁Sistemas Embarcados/📄Introdução a Internet das Coisas.md",
-    "subconsciente/Pasted image 20250102215930.png",
+    "subconsciente/dispositivo edge == Computador de Borda.md",
     "subconsciente/pilha de protocolos.md",
+    "subconsciente/Pasted image 20250102215930.png",
     "subconsciente",
     "📁💻Software/📁Lógica de Programação em Python/📄Estruturas de Repetição While.md",
     "📁💻Software/📁Sistemas Embarcados/📄Arquitetura da Internet das Coisas.md",
@@ -222,7 +223,6 @@
     "CBMPB-ENEM-ESA/Sociologia.md",
     "📁📖Vestibulares/📂 Física.md",
     "📁📖Vestibulares/📂 História.md",
-    "E.md",
-    "Corpo de Bombeiros Militar da Paraíba.md"
+    "E.md"
   ]
 }

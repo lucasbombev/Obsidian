@@ -34,6 +34,3 @@ etiquetas inteligentes que medem o nível de açúcar no sangue.
 
 Esses sensores são muito limitados e não comunicam diretamente com a Internet, normalmente possuem interface Bluetooth e usam um celular como [[dispositivo edge == Computador de Borda]] para enviar os dados para a nuvem.
 ___
-# Questões de Fixação
-geradas por IA
-#Fixação
