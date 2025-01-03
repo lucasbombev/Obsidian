@@ -77,8 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "18277702c50a6a3d",
@@ -187,10 +186,16 @@
   },
   "active": "da42ca128a4d1de7",
   "lastOpenFiles": [
-    "Pasted image 20250102181248.png",
+    "subconsciente/dispositivo edge == Computador de Borda.md",
     "📁💻Software/📁Sistemas Embarcados/📄Introdução a Internet das Coisas.md",
-    "📁💻Software/📁Sistemas Embarcados/📄Arquitetura da Internet das Coisas.md",
+    "subconsciente/Pasted image 20250102215930.png",
+    "subconsciente/pilha de protocolos.md",
+    "subconsciente",
     "📁💻Software/📁Lógica de Programação em Python/📄Estruturas de Repetição While.md",
+    "📁💻Software/📁Sistemas Embarcados/📄Arquitetura da Internet das Coisas.md",
+    "📁👨‍🚀Agência Aeroespacial Brasileira/📄Notas importantes sobre o edital.md",
+    "📁👨‍🚀Agência Aeroespacial Brasileira",
+    "subconsciente/Pasted image 20250102181248.png",
     "📁💻Software/📁Sistemas Embarcados",
     "📁📖Vestibulares/📂 Língua Portuguesa/📄Ortografia e Acentuação Gráfica.md",
     "📁📖Vestibulares/📂 Matemática/📄Conjunto dos Números Naturais.md",
@@ -204,8 +209,6 @@
     "📁📖Vestibulares/📂 Geografia",
     "📁📖Vestibulares/📂 História",
     "📁📖Vestibulares/📂 Matemática",
-    "📁📖Vestibulares/📂 Química",
-    "📁📖Vestibulares/📂Sociologia",
     "📁📖Vestibulares/📂 Filosofia.md",
     "📁📖Vestibulares/📂 Língua Portuguesa.md",
     "📁💻Software/📁Lógica de Programação em Python.md",
@@ -220,7 +223,6 @@
     "📁📖Vestibulares/📂 Física.md",
     "📁📖Vestibulares/📂 História.md",
     "E.md",
-    "Corpo de Bombeiros Militar da Paraíba.md",
-    "Welcome.md"
+    "Corpo de Bombeiros Militar da Paraíba.md"
   ]
 }

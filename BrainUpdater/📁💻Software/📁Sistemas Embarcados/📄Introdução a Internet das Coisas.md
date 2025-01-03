@@ -19,3 +19,21 @@ Um marco significativo foi a criação do primeiro objeto conectado: uma máquin
 Na década de 1990, surgiram impressoras, câmeras e sistemas de diagnóstico para automóveis conectados à rede.
 
 ## Conceitos e Definições da Internet das Coisas
+### O que é um objeto conectado?
+Vamos estabelecer alguns requisitos para um objeto conectado. Vamos nos concentrar naquelas “coisas” que uma pessoa comum não imaginaria que possuem conectividade, como seu guarda-chuva, as lâmpadas de sua casa, a porta da sua garagem.
+
+esses objetos terão pouca conectividade e pouquíssimo poder computacional, apenas o suficiente para realizar uma comunicação sem fio de curta distância e compartilhar seus dados.
+
+Provavelmente, eles serão alimentados por baterias e não poderão emitir calor. Claro que haverá exceções.
+
+Embora limitados, eles devem ser capazes de executar uma [[pilha de protocolos]] IP ou, pelo menos, uma pilha de algum protocolo não-IP e usar um dispositivo edge (computador de borda) para se comunicar
+
+#### Exemplo de IOT que usa protocolo não-IP
+etiquetas inteligentes que medem o nível de açúcar no sangue.
+![[Pasted image 20250102215930.png]]
+
+Esses sensores são muito limitados e não comunicam diretamente com a Internet, normalmente possuem interface Bluetooth e usam um celular como [[dispositivo edge == Computador de Borda]] para enviar os dados para a nuvem.
+___
+# Questões de Fixação
+geradas por IA
+#Fixação
