@@ -11,14 +11,12 @@
             "id": "9103547b1613b8ce",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "📁💻Software/📁Sistemas Embarcados/📄Introdução ao Desenvolvimento de Software Embarcado com Microcontroladores.md",
-                "mode": "source",
-                "source": false
+                "file": "subconsciente/Pasted image 20250105145435.png"
               },
-              "icon": "lucide-file",
-              "title": "📄Introdução ao Desenvolvimento de Software Embarcado com Microcontroladores"
+              "icon": "lucide-image",
+              "title": "Pasted image 20250105145435"
             }
           }
         ]
@@ -184,17 +182,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9103547b1613b8ce",
+  "active": "a1386f9ced4787d2",
   "lastOpenFiles": [
-    "Pasted image 20250114175622.png",
-    "Pasted image 20250114175154.png",
+    "subconsciente/Pasted image 20250114175622.png",
+    "📁💻Software/📁Sistemas Embarcados/📄Introdução ao Desenvolvimento de Software Embarcado com Microcontroladores.md",
+    "subconsciente/Pasted image 20250114175154.png",
     "📁💻Software/📁Sistemas Embarcados/📄Arquitetura da Internet das Coisas.md",
     "📁💻Software/📁Sistemas Embarcados/📄Introdução a Internet das Coisas.md",
-    "📁💻Software/📁Sistemas Embarcados/📄Introdução ao Desenvolvimento de Software Embarcado com Microcontroladores.md",
     "📁💻Software/📁Sistemas Embarcados/📄Aplicações e Projetos em IoT em Sistemas Embarcados.md",
     "📁📖Vestibulares/📂 Língua Portuguesa/📄Ortografia e Acentuação Gráfica.md",
-    "Pasted image 20250105155051.png",
-    "Pasted image 20250105145435.png",
+    "subconsciente/Pasted image 20250105155051.png",
+    "subconsciente/Pasted image 20250105145435.png",
     "subconsciente/dispositivo edge == Computador de Borda.md",
     "subconsciente/pilha de protocolos.md",
     "Internet das cosias.md",
