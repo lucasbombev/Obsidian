@@ -11,12 +11,14 @@
             "id": "9103547b1613b8ce",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "subconsciente/Pasted image 20250105145435.png"
+                "file": "📁📖Vestibulares/📂 Língua Portuguesa/📄Ortografia e Acentuação Gráfica.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Pasted image 20250105145435"
+              "icon": "lucide-file",
+              "title": "📄Ortografia e Acentuação Gráfica"
             }
           }
         ]
@@ -75,7 +77,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "18277702c50a6a3d",
@@ -182,17 +185,18 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a1386f9ced4787d2",
+  "active": "9103547b1613b8ce",
   "lastOpenFiles": [
+    "📁📖Vestibulares/📂 Língua Portuguesa/📄Acentuação gráfica das palavras monossilábiacas.md",
+    "📁📖Vestibulares/📂 Língua Portuguesa/📄Ortografia e Acentuação Gráfica.md",
+    "subconsciente/Pasted image 20250105145435.png",
     "subconsciente/Pasted image 20250114175622.png",
     "📁💻Software/📁Sistemas Embarcados/📄Introdução ao Desenvolvimento de Software Embarcado com Microcontroladores.md",
     "subconsciente/Pasted image 20250114175154.png",
     "📁💻Software/📁Sistemas Embarcados/📄Arquitetura da Internet das Coisas.md",
     "📁💻Software/📁Sistemas Embarcados/📄Introdução a Internet das Coisas.md",
     "📁💻Software/📁Sistemas Embarcados/📄Aplicações e Projetos em IoT em Sistemas Embarcados.md",
-    "📁📖Vestibulares/📂 Língua Portuguesa/📄Ortografia e Acentuação Gráfica.md",
     "subconsciente/Pasted image 20250105155051.png",
-    "subconsciente/Pasted image 20250105145435.png",
     "subconsciente/dispositivo edge == Computador de Borda.md",
     "subconsciente/pilha de protocolos.md",
     "Internet das cosias.md",
