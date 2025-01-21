@@ -42,3 +42,26 @@ Ocorre que alguns gramáticos entendem também serem proparoxítonas as palavras
 - Proparoxitona: Antepenultima acentuada
 TODAS as proparoxítonas são acentuadas
 Ex.: pássaro; pêssego; líquido; trôpego; úmido.
+## Acentuação gráfica em casos específicos
+
+São elas:
+
+1. **Ditongos abertos:** éi, ói, éu seguidos ou não de “s” serão acentuados nas palavras oxítonas e monossílabas.
+    
+
+Ex. méis, anéis, céu, chapéu(s), herói, anzóis.
+O acordo ortográfico aboliu o acento agudo nos ditongos abertos “ei” e “oi” das  palavras paroxítonas.
+
+Ex. ideia; assembleia, jiboia, heroico.
+
+**2. Acento diferencial** − é utilizado para diferenciar palavras de grafia semelhante.
+
+2.1 Usamos o acento diferencial para distinguir o verbo “pôde” (pretérito perfeito do indicativo) do verbo “pode” (presente do indicativo).
+
+2.2 Também usamos para distinguir o verbo “pôr” da preposição “por”.
+
+2.3 Ele distingue ainda os verbos “vir” e “ter” para marcar plural:
+
+ele tem − eles têm
+
+ele vem − eles vêm
