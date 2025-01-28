@@ -11,10 +11,14 @@
             "id": "ce101ccd150b0235",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "📁💻Software/📁Sistemas Embarcados/📄Práticas de Portas de Entrada e Saída - GPIO.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nova aba"
+              "title": "📄Práticas de Portas de Entrada e Saída - GPIO"
             }
           }
         ]
@@ -73,7 +77,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "18277702c50a6a3d",
@@ -180,17 +185,18 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a1386f9ced4787d2",
+  "active": "ce101ccd150b0235",
   "lastOpenFiles": [
+    "📁💻Software/📁Sistemas Embarcados/📄Práticas de Portas de Entrada e Saída - GPIO.md",
+    "📁💻Software/📁Sistemas Embarcados/📄Introdução ao Desenvolvimento de Software Embarcado com Microcontroladores.md",
+    "📁💻Software/📁Sistemas Embarcados/📄Introdução a Internet das Coisas.md",
+    "📁💻Software/📁Sistemas Embarcados/📄Arquitetura da Internet das Coisas.md",
     "📁📖Vestibulares/📂 Língua Portuguesa/📄Ortografia e Acentuação Gráfica.md",
     "📁📖Vestibulares/📂 Língua Portuguesa/📄Morfologia I - Aula I.md",
     "📁📖Vestibulares/📂 Língua Portuguesa/📄Acentuação gráfica das palavras monossilábiacas.md",
     "subconsciente/Pasted image 20250105145435.png",
     "subconsciente/Pasted image 20250114175622.png",
-    "📁💻Software/📁Sistemas Embarcados/📄Introdução ao Desenvolvimento de Software Embarcado com Microcontroladores.md",
     "subconsciente/Pasted image 20250114175154.png",
-    "📁💻Software/📁Sistemas Embarcados/📄Arquitetura da Internet das Coisas.md",
-    "📁💻Software/📁Sistemas Embarcados/📄Introdução a Internet das Coisas.md",
     "📁💻Software/📁Sistemas Embarcados/📄Aplicações e Projetos em IoT em Sistemas Embarcados.md",
     "subconsciente/Pasted image 20250105155051.png",
     "subconsciente/dispositivo edge == Computador de Borda.md",
@@ -222,7 +228,6 @@
     "📁📖Vestibulares/📂 Língua Inglesa.md",
     "📁📖Vestibulares/📂 Geografia.md",
     "📁📖Vestibulares/📂 Biologia.md",
-    "📁📖Vestibulares/📂 Química.md",
-    "📁📖Vestibulares/📂Sociologia.md"
+    "📁📖Vestibulares/📂 Química.md"
   ]
 }
