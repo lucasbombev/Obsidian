@@ -6,8 +6,7 @@ ___
 
 - **Bloco 1**: Português Básico ou Matemática Básica (alternando diariamente).
 - **Bloco 2**: Disciplina técnica ou teórica.
-- **Bloco 3**: Disciplina prática ou complementar.
-
+- **Bloco 3**: Disciplina prática
 ### Ciclo de Estudos:
 
 #### **Dia 1**
