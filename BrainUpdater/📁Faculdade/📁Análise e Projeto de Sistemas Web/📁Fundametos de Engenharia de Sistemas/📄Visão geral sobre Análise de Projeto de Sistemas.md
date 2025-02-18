@@ -74,3 +74,4 @@ As principais funções de um analista de sistemas são
 - O analista atua como um intermediário entre os usuários (que nem sempre entendem de tecnologia) e os desenvolvedores (que nem sempre entendem as necessidades do negócio).
 - Ele garante que todos estejam alinhados e que o sistema atenda às expectativas.
 ___
+## [[Teoria Geral dos Sistemas]] (TGS)
