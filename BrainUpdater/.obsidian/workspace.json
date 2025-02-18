@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "📁💻Software/📁Lógica de Programação em Python/📄Estruturas de Repetição While.md",
+                "file": "CICLO BÁSICO.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "📄Estruturas de Repetição While"
+              "title": "CICLO BÁSICO"
             }
           }
         ]
@@ -187,15 +187,19 @@
   },
   "active": "37d8fa69278ddc1c",
   "lastOpenFiles": [
+    "🌀CICLOS.md",
+    "CICLO BÁSICO.md",
+    "Pasted image 20250217182618.png",
+    "🧠 GUIA.md",
+    "📔DIÁRIO DE ESTUDO.md",
     "📁💻Software/📁Sistemas Embarcados/📄Práticas de Portas de Entrada e Saída - GPIO.md",
+    "📁💻Software/📁Sistemas Embarcados/📄Introdução ao Desenvolvimento de Software Embarcado com Microcontroladores.md",
+    "📁💻Software/📁Sistemas Embarcados/📄Introdução a Internet das Coisas.md",
+    "📁💻Software/📁Lógica de Programação em Python/📄Estruturas de Repetição While.md",
     "📁💻Software/📁Sistemas Embarcados/📄Aplicações e Projetos em IoT em Sistemas Embarcados.md",
     "📁💻Software/📁Sistemas Embarcados/📄Arquitetura da Internet das Coisas.md",
-    "📁💻Software/📁Sistemas Embarcados/📄Introdução a Internet das Coisas.md",
-    "📁💻Software/📁Sistemas Embarcados/📄Introdução ao Desenvolvimento de Software Embarcado com Microcontroladores.md",
-    "Pasted image 20250217182618.png",
     "📁💻Software/📁 Banco De Dados/📁 Introdução ao Banco de Dados/📄 Conceitos em Sistemas de Banco de Dados.md",
     "📁Faculdade/📁Computação Forense/📄Aula 01 - Conceitos Iniciais sobre Computação Forense e Segurança.md",
-    "📁💻Software/📁Lógica de Programação em Python/📄Estruturas de Repetição While.md",
     "📁📖Vestibulares/📂 Língua Portuguesa/📄Ortografia e Acentuação Gráfica.md",
     "📁📖Vestibulares/📂 Língua Portuguesa/📄Morfologia I - Outros processos de formação.md",
     "📁📖Vestibulares/📂 Língua Portuguesa/📄Morfologia I - Aula III - Derivação prefixal, sufixal, prefixal e sufixal, parassíntese.md",
@@ -204,11 +208,8 @@
     "📁Faculdade/📁Desenvolvimento Back-End",
     "📁Faculdade",
     "📁Faculdade/📁Computação Forense",
-    "CICLO BÁSICO.md",
     "📁💻Software/📁 Banco De Dados/📁 Introdução ao Banco de Dados",
     "📁💻Software/📁 Banco De Dados",
-    "🌀CICLOS FACULDADE.md",
-    "🧠 GUIA.md",
     "📁📖Vestibulares/📂 Língua Portuguesa/📄Morfologia I - Aula II - Composição por justaposição e aglutinação.md",
     "📁📖Vestibulares/📂 Língua Portuguesa/📄Acentuação gráfica das palavras monossilábiacas.md",
     "subconsciente/Pasted image 20250105145435.png",
@@ -225,7 +226,6 @@
     "subconsciente/Pasted image 20250102181248.png",
     "📁💻Software/📁Sistemas Embarcados",
     "📁📖Vestibulares/📂 Matemática/📄Conjunto dos Números Naturais.md",
-    "📔DIÁRIO DE ESTUDO.md",
     "📁💻Software/📁Sistemas Embarcados",
     "📁📖Vestibulares/📂 Filosofia.md",
     "📁📖Vestibulares/📂 Língua Portuguesa.md"
