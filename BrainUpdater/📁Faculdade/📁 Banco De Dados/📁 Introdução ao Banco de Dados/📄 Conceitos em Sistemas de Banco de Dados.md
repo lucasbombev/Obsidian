@@ -37,29 +37,22 @@ ___
 É o nível mais baixo de abstração, onde os dados são realmente armazenados no sistema. Ele descreve **como os dados são armazenados fisicamente** no banco de dados, incluindo detalhes como:
 
 - Estruturas de armazenamento (arquivos, tabelas, índices).
-    
 - Métodos de acesso (hashing, árvores B, etc.).
-    
 - Alocação de espaço em disco.
-    
 - Técnicas de compressão e criptografia.
 #### **Nível Conceitual (Conceptual Level)**
 
 É o nível intermediário de abstração, que descreve **o que o banco de dados contém** e como os dados estão organizados logicamente. Ele fornece uma visão global do banco de dados, independente de como os dados são armazenados fisicamente. Inclui:
 
 - A estrutura lógica do banco de dados (entidades, atributos, relacionamentos).
-    
 - Regras de integridade e consistência dos dados.
-    
 - Definição de esquemas (tabelas, chaves primárias, chaves estrangeiras).
 ### **Nível de Visão (External Level)**
 
 É o nível mais alto de abstração, que descreve **como os usuários finais veem os dados**. Ele oferece uma visão personalizada do banco de dados para diferentes grupos de usuários, ocultando detalhes desnecessários. Cada visão pode mostrar apenas uma parte dos dados, adaptada às necessidades específicas de um usuário ou aplicação. Inclui:
 
 - Subconjuntos de tabelas e atributos.
-    
 - Consultas personalizadas.
-    
 - Dados agregados ou transformados.
 ___
 ## Projeto de Banco de Dados

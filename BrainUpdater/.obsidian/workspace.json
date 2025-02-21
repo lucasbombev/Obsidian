@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "a17d968abd58cde7",
+        "id": "7ccc8ed874e7043c",
         "type": "tabs",
         "children": [
           {
-            "id": "37d8fa69278ddc1c",
+            "id": "1bea05d910b68a44",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "📁Faculdade/📁Análise e Projeto de Sistemas Web/📁Fundametos de Engenharia de Sistemas/📄Visão geral sobre Análise de Projeto de Sistemas.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "📄Visão geral sobre Análise de Projeto de Sistemas"
+              "title": "Nova aba"
             }
           }
         ]
@@ -78,8 +74,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "18277702c50a6a3d",
@@ -186,14 +181,26 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "37d8fa69278ddc1c",
+  "active": "1bea05d910b68a44",
   "lastOpenFiles": [
+    "🌀CICLOS.md",
+    "📁📖Vestibulares/📂 Língua Portuguesa/📄Ortografia e Acentuação Gráfica.md",
+    "📁📖Vestibulares/📂 Língua Portuguesa/📁 Morfologia I/📄Morfologia I - Aula I - radical - afixos - vogal temática.md",
+    "📁📖Vestibulares/📂 Língua Portuguesa/📁 Morfologia I/📄Morfologia I - Aula II - Composição por justaposição e aglutinação.md",
+    "📁📖Vestibulares/📂 Língua Portuguesa/📁 Morfologia I/📄Morfologia I - Aula III - Derivação prefixal, sufixal, prefixal e sufixal, parassíntese.md",
+    "📁📖Vestibulares/📂 Língua Portuguesa/📁 Morfologia II",
+    "📁📖Vestibulares/📂 Língua Portuguesa/📁 Morfologia I",
+    "📁📖Vestibulares/📂 Língua Portuguesa/📄Morfologia I - Outros processos de formação.md",
+    "📁💻Software/📁Lógica de Programação em Python/📄Estruturas de Repetição While.md",
     "📁Faculdade/📁Análise e Projeto de Sistemas Web/📁Fundametos de Engenharia de Sistemas/📄Visão geral sobre Análise de Projeto de Sistemas.md",
+    "📁Faculdade/📁 Banco De Dados/📁 Introdução ao Banco de Dados/📄 Conceitos em Sistemas de Banco de Dados.md",
+    "📁Faculdade/📁Computação Forense/📄Aula 01 - Conceitos Iniciais sobre Computação Forense e Segurança.md",
+    "Pasted image 20250219172121.png",
+    "📁Faculdade/📁Arquitetura de Design UX-UI/📄Aula 1 - A Importância da Arquitetura de Design UX-UI e Design Thinking.md",
+    "📁Faculdade/📁Arquitetura de Design UX-UI",
+    "📁💻Software/📁Sistemas Embarcados/📄Aplicações e Projetos em IoT em Sistemas Embarcados.md",
     "Teoria Geral dos Sistemas.md",
     "Pasted image 20250218123331.png",
-    "📁📖Vestibulares/📂 Língua Portuguesa/📄Ortografia e Acentuação Gráfica.md",
-    "📁Faculdade/📁Computação Forense/📄Aula 01 - Conceitos Iniciais sobre Computação Forense e Segurança.md",
-    "🌀CICLOS.md",
     "📁Faculdade/📁Análise e Projeto de Sistemas Web/📁Fundametos de Engenharia de Sistemas",
     "CICLO BÁSICO.md",
     "Pasted image 20250217182618.png",
@@ -202,20 +209,13 @@
     "📁💻Software/📁Sistemas Embarcados/📄Práticas de Portas de Entrada e Saída - GPIO.md",
     "📁💻Software/📁Sistemas Embarcados/📄Introdução ao Desenvolvimento de Software Embarcado com Microcontroladores.md",
     "📁💻Software/📁Sistemas Embarcados/📄Introdução a Internet das Coisas.md",
-    "📁💻Software/📁Lógica de Programação em Python/📄Estruturas de Repetição While.md",
-    "📁💻Software/📁Sistemas Embarcados/📄Aplicações e Projetos em IoT em Sistemas Embarcados.md",
     "📁💻Software/📁Sistemas Embarcados/📄Arquitetura da Internet das Coisas.md",
-    "📁💻Software/📁 Banco De Dados/📁 Introdução ao Banco de Dados/📄 Conceitos em Sistemas de Banco de Dados.md",
-    "📁📖Vestibulares/📂 Língua Portuguesa/📄Morfologia I - Outros processos de formação.md",
-    "📁📖Vestibulares/📂 Língua Portuguesa/📄Morfologia I - Aula III - Derivação prefixal, sufixal, prefixal e sufixal, parassíntese.md",
-    "📁📖Vestibulares/📂 Língua Portuguesa/📄Morfologia I - Aula I - radical - afixos - vogal temática.md",
     "📁Faculdade/📁Análise e Projeto de Sistemas Web",
     "📁Faculdade/📁Desenvolvimento Back-End",
     "📁Faculdade",
     "📁Faculdade/📁Computação Forense",
-    "📁💻Software/📁 Banco De Dados/📁 Introdução ao Banco de Dados",
-    "📁💻Software/📁 Banco De Dados",
-    "📁📖Vestibulares/📂 Língua Portuguesa/📄Morfologia I - Aula II - Composição por justaposição e aglutinação.md",
+    "📁Faculdade/📁 Banco De Dados/📁 Introdução ao Banco de Dados",
+    "📁Faculdade/📁 Banco De Dados",
     "📁📖Vestibulares/📂 Língua Portuguesa/📄Acentuação gráfica das palavras monossilábiacas.md",
     "subconsciente/Pasted image 20250105145435.png",
     "subconsciente/Pasted image 20250114175622.png",
@@ -225,11 +225,7 @@
     "subconsciente/pilha de protocolos.md",
     "Internet das cosias.md",
     "subconsciente/Pasted image 20250102215930.png",
-    "subconsciente",
     "📁👨‍🚀Agência Aeroespacial Brasileira/📄Notas importantes sobre o edital.md",
-    "📁👨‍🚀Agência Aeroespacial Brasileira",
-    "subconsciente/Pasted image 20250102181248.png",
-    "📁💻Software/📁Sistemas Embarcados",
-    "📁📖Vestibulares/📂 Matemática/📄Conjunto dos Números Naturais.md"
+    "subconsciente/Pasted image 20250102181248.png"
   ]
 }
