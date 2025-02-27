@@ -21,3 +21,4 @@ ___
 - **Dia 07:** Revisão da semana ou descanso
 
 Esse ciclo garante que você estude todas as matérias da faculdade sem sobrecarregar uma área específica em uma semana. Se quiser ajustes, é só falar!
+ 
