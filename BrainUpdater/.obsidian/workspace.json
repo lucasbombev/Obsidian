@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🌀CICLOS.md",
+                "file": "📁Faculdade/📁 Fundamentos de Sistemas Operacionais/📄Introdução a Sistemas Operacionais.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "🌀CICLOS"
+              "title": "📄Introdução a Sistemas Operacionais"
             }
           }
         ]
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "18277702c50a6a3d",
@@ -187,15 +188,18 @@
   },
   "active": "c6c32a47fc78f5e1",
   "lastOpenFiles": [
+    "Pasted image 20250227195319.png",
+    "📁Faculdade/📁Análise e Projeto de Sistemas Web/📁Fundametos de Engenharia de Sistemas/📄Visão geral sobre Análise de Projeto de Sistemas.md",
+    "📁Faculdade/📁 Fundamentos de Sistemas Operacionais/📄Introdução a Sistemas Operacionais.md",
     "📁Faculdade/📁Desenvolvimento Back-End/📄Introdução ao Desenvolvimento Back-End e APIs RESTful.md",
+    "🌀CICLOS.md",
+    "📁Faculdade/📁 Fundamentos de Sistemas Operacionais",
     "📁Faculdade/📁Computação Forense/📄Aula 01 - Conceitos Iniciais sobre Computação Forense e Segurança.md",
     "📁Faculdade/📁 Banco De Dados/📁 Introdução ao Banco de Dados/📄 Conceitos em Sistemas de Banco de Dados.md",
     "📁Faculdade/📁 Análise e Elicitação de Requisitos/📄 Requisitos de Software.md",
     "Pasted image 20250225025245.png",
     "Pasted image 20250224235734.png",
     "Pasted image 20250224235540.png",
-    "📁Faculdade/📁Análise e Projeto de Sistemas Web/📁Fundametos de Engenharia de Sistemas/📄Visão geral sobre Análise de Projeto de Sistemas.md",
-    "🌀CICLOS.md",
     "📁Faculdade/📁 Análise e Elicitação de Requisitos",
     "📁📖Vestibulares/📂 Língua Portuguesa/📁 Morfologia I/📄Morfologia I - Aula II - Composição por justaposição e aglutinação.md",
     "📁📖Vestibulares/📂 Língua Portuguesa/📁 Morfologia I/📄Morfologia I - Aula III - Derivação prefixal, sufixal, prefixal e sufixal, parassíntese.md",
@@ -224,13 +228,11 @@
     "📁Faculdade/📁Desenvolvimento Back-End",
     "📁Faculdade",
     "📁Faculdade/📁Computação Forense",
-    "📁Faculdade/📁 Banco De Dados/📁 Introdução ao Banco de Dados",
     "📁📖Vestibulares/📂 Língua Portuguesa/📄Acentuação gráfica das palavras monossilábiacas.md",
     "subconsciente/Pasted image 20250105145435.png",
     "subconsciente/Pasted image 20250114175622.png",
     "subconsciente/Pasted image 20250114175154.png",
     "subconsciente/Pasted image 20250105155051.png",
-    "subconsciente/dispositivo edge == Computador de Borda.md",
-    "subconsciente/pilha de protocolos.md"
+    "subconsciente/dispositivo edge == Computador de Borda.md"
   ]
 }
