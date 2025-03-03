@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "📁Faculdade/📁 Fundamentos de Sistemas Operacionais/📄Introdução a Sistemas Operacionais.md",
+                "file": "🌀CICLOS.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "📄Introdução a Sistemas Operacionais"
+              "title": "🌀CICLOS"
             }
           }
         ]
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "18277702c50a6a3d",
@@ -95,8 +94,8 @@
             "state": {
               "type": "advanced-tables-toolbar",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin desativado"
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
             }
           },
           {
@@ -188,17 +187,20 @@
   },
   "active": "c6c32a47fc78f5e1",
   "lastOpenFiles": [
+    "📁Faculdade/📁 Matemática Aplicada/📄 Introdução a Teoria dos Conjuntos.md",
+    "📁Faculdade/📁Análise e Projeto de Sistemas Web/📁Fundametos de Engenharia de Sistemas/📄Visão geral sobre Análise de Projeto de Sistemas.md",
+    "📁Faculdade/📁 Matemática Aplicada/Sem título",
+    "🌀CICLOS.md",
+    "📁Faculdade/📁 Matemática Aplicada",
+    "📁Faculdade/📁 Fundamentos de Sistemas Operacionais/📄Introdução a Sistemas Operacionais.md",
     "Pasted image 20250228141442.png",
     "Memória Terciária (Fitas, Armazenamento em Nuvem).md",
-    "📁Faculdade/📁 Fundamentos de Sistemas Operacionais/📄Introdução a Sistemas Operacionais.md",
     "Memória Secundária (HD, SSD).md",
     "Memória Principal (RAM).md",
     "Cache (L1, L2, L3).md",
     "Registradores.md",
     "Pasted image 20250227195319.png",
-    "📁Faculdade/📁Análise e Projeto de Sistemas Web/📁Fundametos de Engenharia de Sistemas/📄Visão geral sobre Análise de Projeto de Sistemas.md",
     "📁Faculdade/📁Desenvolvimento Back-End/📄Introdução ao Desenvolvimento Back-End e APIs RESTful.md",
-    "🌀CICLOS.md",
     "📁Faculdade/📁 Fundamentos de Sistemas Operacionais",
     "📁Faculdade/📁Computação Forense/📄Aula 01 - Conceitos Iniciais sobre Computação Forense e Segurança.md",
     "📁Faculdade/📁 Banco De Dados/📁 Introdução ao Banco de Dados/📄 Conceitos em Sistemas de Banco de Dados.md",
@@ -229,10 +231,7 @@
     "📁💻Software/📁Sistemas Embarcados/📄Práticas de Portas de Entrada e Saída - GPIO.md",
     "📁Faculdade/📁Análise e Projeto de Sistemas Web",
     "📁Faculdade/📁Desenvolvimento Back-End",
-    "📁Faculdade",
-    "📁Faculdade/📁Computação Forense",
     "subconsciente/Pasted image 20250105145435.png",
-    "subconsciente/Pasted image 20250114175622.png",
-    "subconsciente/Pasted image 20250114175154.png"
+    "subconsciente/Pasted image 20250114175622.png"
   ]
 }
