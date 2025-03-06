@@ -13,15 +13,36 @@
             "state": {
               "type": "markdown",
               "state": {
+<<<<<<< HEAD
                 "file": "🌀CICLOS.md",
+=======
+                "file": "📁Faculdade/📁 Banco De Dados/📁 Introdução ao Banco de Dados/📄Modelagem de Banco de Dados.md",
+>>>>>>> a4062e6 (Banco Sync)
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
+<<<<<<< HEAD
               "title": "🌀CICLOS"
+=======
+              "title": "📄Modelagem de Banco de Dados"
+            }
+          },
+          {
+            "id": "bd54549001c28275",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.9"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.9"
+>>>>>>> a4062e6 (Banco Sync)
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -185,13 +206,20 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c6c32a47fc78f5e1",
+  "active": "bd54549001c28275",
   "lastOpenFiles": [
+<<<<<<< HEAD
     "📁Faculdade/📁 Matemática Aplicada/📄 Introdução a Teoria dos Conjuntos.md",
     "📁Faculdade/📁Análise e Projeto de Sistemas Web/📁Fundametos de Engenharia de Sistemas/📄Visão geral sobre Análise de Projeto de Sistemas.md",
     "📁Faculdade/📁 Matemática Aplicada/Sem título",
     "🌀CICLOS.md",
     "📁Faculdade/📁 Matemática Aplicada",
+=======
+    "🌀CICLOS.md",
+    "📁Faculdade/📁 Banco De Dados/📁 Introdução ao Banco de Dados/📄Modelagem de Banco de Dados.md",
+    "📁Faculdade/📁 Banco De Dados/📁 Introdução ao Banco de Dados/📄 Conceitos em Sistemas de Banco de Dados.md",
+    "Pasted image 20250305130019.png",
+>>>>>>> a4062e6 (Banco Sync)
     "📁Faculdade/📁 Fundamentos de Sistemas Operacionais/📄Introdução a Sistemas Operacionais.md",
     "Pasted image 20250228141442.png",
     "Memória Terciária (Fitas, Armazenamento em Nuvem).md",
@@ -203,7 +231,6 @@
     "📁Faculdade/📁Desenvolvimento Back-End/📄Introdução ao Desenvolvimento Back-End e APIs RESTful.md",
     "📁Faculdade/📁 Fundamentos de Sistemas Operacionais",
     "📁Faculdade/📁Computação Forense/📄Aula 01 - Conceitos Iniciais sobre Computação Forense e Segurança.md",
-    "📁Faculdade/📁 Banco De Dados/📁 Introdução ao Banco de Dados/📄 Conceitos em Sistemas de Banco de Dados.md",
     "📁Faculdade/📁 Análise e Elicitação de Requisitos/📄 Requisitos de Software.md",
     "Pasted image 20250225025245.png",
     "Pasted image 20250224235734.png",
@@ -228,10 +255,15 @@
     "Pasted image 20250217182618.png",
     "🧠 GUIA.md",
     "📔DIÁRIO DE ESTUDO.md",
-    "📁💻Software/📁Sistemas Embarcados/📄Práticas de Portas de Entrada e Saída - GPIO.md",
     "📁Faculdade/📁Análise e Projeto de Sistemas Web",
     "📁Faculdade/📁Desenvolvimento Back-End",
+<<<<<<< HEAD
     "subconsciente/Pasted image 20250105145435.png",
     "subconsciente/Pasted image 20250114175622.png"
+=======
+    "📁Faculdade",
+    "📁Faculdade/📁Computação Forense",
+    "subconsciente/Pasted image 20250105145435.png"
+>>>>>>> a4062e6 (Banco Sync)
   ]
 }
