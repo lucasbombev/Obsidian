@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "excluir",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,8 +74,7 @@
               "title": "Marcadores"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -171,13 +170,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "06b2d1007375c5f1",
+  "active": "1895a8b9f5453cab",
   "lastOpenFiles": [
-    "📁Faculdade/📁 Banco De Dados/📁 Introdução ao Banco de Dados/📄Modelagem de Banco de Dados.md",
-    "📁Faculdade/📁 Banco De Dados/📁 Introdução ao Banco de Dados/📄 Conceitos em Sistemas de Banco de Dados.md",
-    "📁Faculdade/📁 Matemática Aplicada/📄 Introdução a Teoria dos Conjuntos.md",
     "🌀CICLOS.md",
     "📁Faculdade/📁 Banco De Dados/📁 Programação Em Banco de Dados/📄 Revisão de Conceitos (SQL).md",
+    "🧠 GUIA.md",
+    "📁Faculdade/📁 Banco De Dados/📁 Introdução ao Banco de Dados/📄 Conceitos em Sistemas de Banco de Dados.md",
+    "📁Faculdade/📁 Banco De Dados/📁 Introdução ao Banco de Dados/📄Modelagem de Banco de Dados.md",
+    "📁Faculdade/📁 Matemática Aplicada/📄 Introdução a Teoria dos Conjuntos.md",
     "📁Faculdade/📁 Banco De Dados/📁 Programação Em Banco de Dados",
     "Pasted image 20250306182312.png",
     "Pasted image 20250306182013.png"
