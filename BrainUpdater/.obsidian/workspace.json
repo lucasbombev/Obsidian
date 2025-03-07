@@ -1,62 +1,41 @@
 {
   "main": {
-    "id": "83934265065b82e5",
+    "id": "b4ba1ab8ac39917a",
     "type": "split",
     "children": [
       {
-        "id": "0ed9dc0a99f189f3",
+        "id": "7efe6be75ec1de86",
         "type": "tabs",
         "children": [
           {
-            "id": "c6c32a47fc78f5e1",
+            "id": "1895a8b9f5453cab",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-<<<<<<< HEAD
-                "file": "🌀CICLOS.md",
-=======
-                "file": "📁Faculdade/📁 Banco De Dados/📁 Introdução ao Banco de Dados/📄Modelagem de Banco de Dados.md",
->>>>>>> a4062e6 (Banco Sync)
+                "file": "📁Faculdade/📁 Matemática Aplicada/📄 Introdução a Teoria dos Conjuntos.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-<<<<<<< HEAD
-              "title": "🌀CICLOS"
-=======
-              "title": "📄Modelagem de Banco de Dados"
-            }
-          },
-          {
-            "id": "bd54549001c28275",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.8.9"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.8.9"
->>>>>>> a4062e6 (Banco Sync)
+              "title": "📄 Introdução a Teoria dos Conjuntos"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "d9acb9f1eeb4812d",
+    "id": "cfff7f45432ad43d",
     "type": "split",
     "children": [
       {
-        "id": "94583c40373a72c5",
+        "id": "016f42c9b1de749f",
         "type": "tabs",
         "children": [
           {
-            "id": "a1386f9ced4787d2",
+            "id": "9458b045ac690f30",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -69,7 +48,7 @@
             }
           },
           {
-            "id": "03dbb6991fb9b0ab",
+            "id": "06b2d1007375c5f1",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -86,7 +65,7 @@
             }
           },
           {
-            "id": "be44f3d6394f023d",
+            "id": "2559ef26ad591c51",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -99,43 +78,24 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
-    "id": "18277702c50a6a3d",
+    "id": "861eff80480cf1eb",
     "type": "split",
     "children": [
       {
-        "id": "4d9ad36fdc3bbbd8",
+        "id": "471360e0b2ec3654",
         "type": "tabs",
         "children": [
           {
-            "id": "22eb313d84dd7178",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {},
-              "icon": "spreadsheet",
-              "title": "Advanced Tables"
-            }
-          },
-          {
-            "id": "b10045556d302fd5",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin desativado"
-            }
-          },
-          {
-            "id": "11b2f0c1147eb6c3",
+            "id": "c39450dfc30f5574",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "📁💻Software/📁Lógica de Programação em Python/📄Estruturas de Repetição While.md",
+                "file": "📁Faculdade/📁 Matemática Aplicada/📄 Introdução a Teoria dos Conjuntos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,46 +105,51 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Links inversos para 📄Estruturas de Repetição While"
+              "title": "Links inversos para 📄 Introdução a Teoria dos Conjuntos"
             }
           },
           {
-            "id": "d33b0dae535a9e4c",
+            "id": "3c8abcb6e6b99c57",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "📁💻Software/📁Lógica de Programação em Python/📄Estruturas de Repetição While.md",
+                "file": "📁Faculdade/📁 Matemática Aplicada/📄 Introdução a Teoria dos Conjuntos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Links de saída para 📄Estruturas de Repetição While"
+              "title": "Links de saída para 📄 Introdução a Teoria dos Conjuntos"
             }
           },
           {
-            "id": "8590521d6093b0a3",
+            "id": "7b9f4e0d49790fa4",
             "type": "leaf",
             "state": {
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-tags",
               "title": "Tags"
             }
           },
           {
-            "id": "a7e5f4e4fe58ec6b",
+            "id": "b70157fc7b0308cc",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "📁💻Software/📁Lógica de Programação em Python/📄Estruturas de Repetição While.md"
+                "file": "📁Faculdade/📁 Matemática Aplicada/📄 Introdução a Teoria dos Conjuntos.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de 📄Estruturas de Repetição While"
+              "title": "Sumário de 📄 Introdução a Teoria dos Conjuntos"
             }
           }
         ]
@@ -206,64 +171,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "bd54549001c28275",
+  "active": "1895a8b9f5453cab",
   "lastOpenFiles": [
-<<<<<<< HEAD
+    "🌀CICLOS.md",
+    "📁Faculdade/📁 Banco De Dados/📁 Programação Em Banco de Dados/📄 Revisão de Conceitos (SQL).md",
     "📁Faculdade/📁 Matemática Aplicada/📄 Introdução a Teoria dos Conjuntos.md",
-    "📁Faculdade/📁Análise e Projeto de Sistemas Web/📁Fundametos de Engenharia de Sistemas/📄Visão geral sobre Análise de Projeto de Sistemas.md",
-    "📁Faculdade/📁 Matemática Aplicada/Sem título",
-    "🌀CICLOS.md",
-    "📁Faculdade/📁 Matemática Aplicada",
-=======
-    "🌀CICLOS.md",
     "📁Faculdade/📁 Banco De Dados/📁 Introdução ao Banco de Dados/📄Modelagem de Banco de Dados.md",
-    "📁Faculdade/📁 Banco De Dados/📁 Introdução ao Banco de Dados/📄 Conceitos em Sistemas de Banco de Dados.md",
-    "Pasted image 20250305130019.png",
->>>>>>> a4062e6 (Banco Sync)
-    "📁Faculdade/📁 Fundamentos de Sistemas Operacionais/📄Introdução a Sistemas Operacionais.md",
-    "Pasted image 20250228141442.png",
-    "Memória Terciária (Fitas, Armazenamento em Nuvem).md",
-    "Memória Secundária (HD, SSD).md",
-    "Memória Principal (RAM).md",
-    "Cache (L1, L2, L3).md",
-    "Registradores.md",
-    "Pasted image 20250227195319.png",
-    "📁Faculdade/📁Desenvolvimento Back-End/📄Introdução ao Desenvolvimento Back-End e APIs RESTful.md",
-    "📁Faculdade/📁 Fundamentos de Sistemas Operacionais",
-    "📁Faculdade/📁Computação Forense/📄Aula 01 - Conceitos Iniciais sobre Computação Forense e Segurança.md",
-    "📁Faculdade/📁 Análise e Elicitação de Requisitos/📄 Requisitos de Software.md",
-    "Pasted image 20250225025245.png",
-    "Pasted image 20250224235734.png",
-    "Pasted image 20250224235540.png",
-    "📁Faculdade/📁 Análise e Elicitação de Requisitos",
-    "📁📖Vestibulares/📂 Língua Portuguesa/📁 Morfologia I/📄Morfologia I - Aula II - Composição por justaposição e aglutinação.md",
-    "📁📖Vestibulares/📂 Língua Portuguesa/📁 Morfologia I/📄Morfologia I - Aula III - Derivação prefixal, sufixal, prefixal e sufixal, parassíntese.md",
-    "📁Faculdade/📁Arquitetura de Design UX-UI/📄Aula 1 - A Importância da Arquitetura de Design UX-UI e Design Thinking.md",
-    "📁📖Vestibulares/📂 Língua Portuguesa/📄Ortografia e Acentuação Gráfica.md",
-    "📁📖Vestibulares/📂 Língua Portuguesa/📁 Morfologia I/📄Morfologia I - Aula I - radical - afixos - vogal temática.md",
-    "📁📖Vestibulares/📂 Língua Portuguesa/📁 Morfologia II",
-    "📁📖Vestibulares/📂 Língua Portuguesa/📁 Morfologia I",
-    "📁📖Vestibulares/📂 Língua Portuguesa/📄Morfologia I - Outros processos de formação.md",
-    "📁💻Software/📁Lógica de Programação em Python/📄Estruturas de Repetição While.md",
-    "Pasted image 20250219172121.png",
-    "📁Faculdade/📁Arquitetura de Design UX-UI",
-    "📁💻Software/📁Sistemas Embarcados/📄Aplicações e Projetos em IoT em Sistemas Embarcados.md",
-    "Teoria Geral dos Sistemas.md",
-    "Pasted image 20250218123331.png",
-    "📁Faculdade/📁Análise e Projeto de Sistemas Web/📁Fundametos de Engenharia de Sistemas",
-    "CICLO BÁSICO.md",
-    "Pasted image 20250217182618.png",
-    "🧠 GUIA.md",
-    "📔DIÁRIO DE ESTUDO.md",
-    "📁Faculdade/📁Análise e Projeto de Sistemas Web",
-    "📁Faculdade/📁Desenvolvimento Back-End",
-<<<<<<< HEAD
-    "subconsciente/Pasted image 20250105145435.png",
-    "subconsciente/Pasted image 20250114175622.png"
-=======
-    "📁Faculdade",
-    "📁Faculdade/📁Computação Forense",
-    "subconsciente/Pasted image 20250105145435.png"
->>>>>>> a4062e6 (Banco Sync)
+    "📁Faculdade/📁 Banco De Dados/📁 Programação Em Banco de Dados",
+    "Pasted image 20250306182312.png",
+    "Pasted image 20250306182013.png"
   ]
 }
