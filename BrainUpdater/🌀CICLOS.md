@@ -26,8 +26,8 @@ Vamos dividir as 12 disciplinas em 4 grupos de 3 disciplinas cada, para garantir
 
 4. **Grupo D**:
    - Programação em Banco de Dados - ✅
-   - UCE0001 - ✅ TEORIA BATIDA, SÓ EXECUTAR O PODCAST
-   - UCE0003 - 
+   - UCE0001 - ✅ TEORIA BATIDA, SÓ EXECUTAR O PODCAST.
+   - UCE0003 - ✅TEORIA BATIDA, APENAS FAZER A RESENHA.
 
 ### Distribuição das Disciplinas de Concurso:
 - **Dias pares (Segunda, Quarta, Sexta, Domingo)**: Português.
