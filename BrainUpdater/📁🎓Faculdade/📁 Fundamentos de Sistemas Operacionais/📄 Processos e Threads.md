@@ -153,6 +153,7 @@ Um **mutex** (abreviação de *mutual exclusion*, ou exclusão mútua) é uma fe
 ### Como funciona?
 O mutex tem dois estados:
 1. **Travado (locked)**: Significa que um processo ou thread está usando o recurso. Ninguém mais pode acessá-lo até que ele seja liberado.
+	Aconteceu comigo quanto tentei usar DPKG, o linux travou meu DPKG porque provavelmente estava fazendo alguma operação e fez isso para evitar erro.
 2. **Destravado (unlocked)**: Significa que o recurso está livre e pode ser usado por outro processo ou thread.
 
 Quando um processo ou thread quer usar o recurso, ele tenta "travar" o mutex. Se o mutex já estiver travado, o processo ou thread precisa esperar até que ele seja liberado.
@@ -196,6 +197,7 @@ O sistema operacional usa um **algoritmo de escalonamento** para tomar essas dec
      - **First-Come, First-Served (FCFS)**: O primeiro processo que chega é o primeiro a ser executado.
      - **Shortest Job First (SJF)**: O processo que leva menos tempo para ser executado vai primeiro.
      - **Round Robin (RR)**: Cada processo recebe um "tempo de CPU" (quantum) e, quando acaba, passa para o próximo.
+     %%Duvida:  COMO O ESCALONADOR FAZ PARA ESCOLHER QUAL DESSES PROFESSOS VAI SER USADO?%%
 
 2. **Escalonamento de threads**:
    - Decide qual thread de um processo deve usar a CPU.

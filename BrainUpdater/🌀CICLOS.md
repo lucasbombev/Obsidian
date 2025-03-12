@@ -20,9 +20,9 @@ Vamos dividir as 12 disciplinas em 4 grupos de 3 disciplinas cada, para garantir
    - Elicitação e Análise de Requisitos - 
 
 3. **Grupo C**:
-   - Fundamentos de Sistemas Operacionais - 
+   - Fundamentos de Sistemas Operacionais - ✅
    - Matemática Aplicada - 
-   - Prática de Leitura e Produção de Texto - 
+   - Prática de Leitura e Produção de Texto - ✅
 
 4. **Grupo D**:
    - Programação em Banco de Dados - ✅
