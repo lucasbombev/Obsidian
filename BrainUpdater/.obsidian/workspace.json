@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "075e4abc21ccda72",
+        "id": "9fea391de76d4bcb",
         "type": "tabs",
         "children": [
           {
-            "id": "5c2b3642a20696b1",
+            "id": "09e8f6f878d50526",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🌀CICLOS.md",
+                "file": "📁🎓Faculdade/📁Desenvolvimento Back-End/📄Estrutura de um Projeto Back-End.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "🌀CICLOS"
+              "title": "📄Estrutura de um Projeto Back-End"
             }
           }
         ]
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "861eff80480cf1eb",
@@ -170,16 +171,30 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5c2b3642a20696b1",
+  "active": "09e8f6f878d50526",
   "lastOpenFiles": [
+    "Pasted image 20250314092917.png",
+    "Pasted image 20250314092423.png",
+    "🌀CICLOS.md",
+    "📁🎓Faculdade/📁Desenvolvimento Back-End/📄Estrutura de um Projeto Back-End.md",
+    "📁🎓Faculdade/📁Computação Forense/📄 Incidentes, Ataques e Métodos de Prevenção em Segurança.md",
+    "📁🎓Faculdade/📁Computação Forense/📄Aula 01 - Conceitos Iniciais sobre Computação Forense e Segurança.md",
+    "📁🎓Faculdade/📁 Fundamentos de Sistemas Operacionais/📄Introdução a Sistemas Operacionais.md",
+    "📁🎓Faculdade/📁 Matemática Aplicada/📄 Introdução a Teoria dos Conjuntos.md",
+    "Pasted image 20250313202648.png",
+    "Pasted image 20250313201441.png",
+    "Pasted image 20250313200006.png",
+    "Pasted image 20250313194329.png",
+    "TRIADE CIA.md",
+    "Pasted image 20250313113737.png",
+    "Conjunto Finito X Conjunto Limitado.md",
+    "📁🎓Faculdade/📁Análise e Projeto de Sistemas Web/📁Fundametos de Engenharia de Sistemas/📄Visão geral sobre Análise de Projeto de Sistemas.md",
+    "Teoria Geral dos Sistemas.md",
     "📁🎓Faculdade/📁 Análise e Elicitação de Requisitos/📄 Requisitos de Software.md",
     "📁🎓Faculdade/📁 Banco De Dados/📁 Programação Em Banco de Dados/📄 Revisão de Conceitos (SQL).md",
-    "📁🎓Faculdade/📁 Matemática Aplicada/📄 Introdução a Teoria dos Conjuntos.md",
     "📁🎓Faculdade/📁 Fundamentos de Sistemas Operacionais/📄 Processos e Threads.md",
-    "🌀CICLOS.md",
     "📁🎓Faculdade/📁 Banco De Dados/📁 Introdução ao Banco de Dados/📄Modelagem de Banco de Dados.md",
     "📁🎓Faculdade/📁 Banco De Dados/📁 Introdução ao Banco de Dados/📄 Conceitos em Sistemas de Banco de Dados.md",
-    "📁🎓Faculdade/📁 Fundamentos de Sistemas Operacionais/📄Introdução a Sistemas Operacionais.md",
     "Pasted image 20250310184223.png",
     "📁🎓Faculdade/📁UCE3/📄Uso de Tecnologias na Sociedade Contemporânea.md",
     "📁🎓Faculdade/📁Desenvolvimento Back-End/📄Introdução ao Desenvolvimento Back-End e APIs RESTful.md",

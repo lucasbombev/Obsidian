@@ -22,4 +22,24 @@ ainda existem outros objetivos que devem ser preservados em segurança de comput
 ## Desafios em Segurança de Computadores
 ![[Pasted image 20250219172121.png]]
 ## Principais padrões ou Normas de Segurança
-### Organizações
+### Padrões
+
+Os padrões são importantes pois trazem normas, protocolos e métodos que auxiliam no desenvolvimento das atividades meios relacionadas a segurança da informação. Na Tabela 2, vamos abordar os principiais padrões juntamente com uma breve descrição do conteúdo relacionado e objetivo daquela norma.
+![[Pasted image 20250313113737.png]]
+### Importância de Proteção de Dados em TSI
+A proteção de dados é crucial por várias razões, tanto para indivíduos quanto para organizações e a sociedade como um todo. Aqui estão alguns dos principais aspectos que destacam a sua importância:
+
+### 1. **Privacidade Individual**
+
+- **Direito à Privacidade:** A proteção de dados garante que as informações pessoais dos indivíduos não sejam acessadas, utilizadas ou compartilhadas sem o seu consentimento.
+- **Autonomia:** Permite que as pessoas tenham controle sobre suas próprias informações, decidindo como, quando e por quem seus dados podem ser utilizados.
+
+### 2. **Segurança**
+
+- **Prevenção de Fraudes e Roubo de Identidade:** A proteção de dados ajuda a prevenir crimes como fraude, roubo de identidade e outros tipos de abuso de informações pessoais.
+- **Proteção contra Ataques Cibernéticos:** Medidas robustas de proteção de dados são essenciais para proteger sistemas e redes contra hackers e outras ameaças cibernéticas.
+### 3. **Conformidade Legal**
+
+- **Legislação:** Muitos países têm leis rigorosas sobre proteção de dados, como o Regulamento Geral sobre a Proteção de Dados (GDPR) na União Europeia e a Lei Geral de Proteção de Dados (LGPD) no Brasil. O não cumprimento pode resultar em multas pesadas e danos à reputação.
+- **Responsabilidade:** Organizações que lidam com dados pessoais têm a obrigação legal de proteger essas informações e garantir que sejam usadas de maneira ética e transparente.
+___

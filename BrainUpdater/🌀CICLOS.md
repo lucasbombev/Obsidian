@@ -15,19 +15,19 @@ Vamos dividir as 12 disciplinas em 4 grupos de 3 disciplinas cada, para garantir
    - Arquitetura de Design UX-UI - 
 
 2. **Grupo B**:
-   - Computação Forense - 
-   - Desenvolvimento Back-end - 
+   - Computação Forense - 🇧🇷 ✅ CONTEÚDO BATIDO. APENAS REVISAR
+   - Desenvolvimento Back-End - 
    - Elicitação e Análise de Requisitos - 
 
 3. **Grupo C**:
    - Fundamentos de Sistemas Operacionais - ✅
-   - Matemática Aplicada - 
+   - Matemática Aplicada - ✅
    - Prática de Leitura e Produção de Texto - ✅
 
 4. **Grupo D**:
    - Programação em Banco de Dados - ✅
-   - UCE0001 - ✅ TEORIA BATIDA, SÓ EXECUTAR O PODCAST.
-   - UCE0003 - ✅TEORIA BATIDA, APENAS FAZER A RESENHA.
+   - UCE0001 - 🇧🇷 ✅ TEORIA BATIDA, SÓ EXECUTAR O PODCAST.
+   - UCE0003 -🇧🇷 ✅TEORIA BATIDA, APENAS FAZER A RESENHA.
 
 ### Distribuição das Disciplinas de Concurso:
 - **Dias pares (Segunda, Quarta, Sexta, Domingo)**: Português.
