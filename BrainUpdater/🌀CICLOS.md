@@ -9,25 +9,25 @@ Para criar um ciclo de estudos eficiente, vamos organizar as disciplinas da facu
 Vamos dividir as 12 disciplinas em 4 grupos de 3 disciplinas cada, para garantir que todas sejam estudadas ao longo da semana.
 
 #### Grupos de Disciplinas:
+Ciclo de número -> 1✅
 1. **Grupo A**:
-   - Algoritmos e Programação - 
-   - Análise e Projeto de Sistemas Web -
+   - Algoritmos e Programação - ✅ BATIDO
+   - Análise e Projeto de Sistemas Web - 
    - Arquitetura de Design UX-UI - 
 
 2. **Grupo B**:
-   - Computação Forense - 🇧🇷 ✅ CONTEÚDO BATIDO. APENAS REVISAR
+   - Computação Forense - 
    - Desenvolvimento Back-End - 
    - Elicitação e Análise de Requisitos - 
-
-3. **Grupo C**:
-   - Fundamentos de Sistemas Operacionais - ✅
-   - Matemática Aplicada - ✅
-   - Prática de Leitura e Produção de Texto - ✅
+1. **Grupo C**:
+   - Fundamentos de Sistemas Operacionais -
+   - Matemática Aplicada - 
+   - Prática de Leitura e Produção de Texto - 
 
 4. **Grupo D**:
-   - Programação em Banco de Dados - ✅
-   - UCE0001 - 🇧🇷 ✅ TEORIA BATIDA, SÓ EXECUTAR O PODCAST.
-   - UCE0003 -🇧🇷 ✅TEORIA BATIDA, APENAS FAZER A RESENHA.
+   - Programação em Banco de Dados - 
+   - UCE0001 - 
+   - UCE0003 - 
 
 ### Distribuição das Disciplinas de Concurso:
 - **Dias pares (Segunda, Quarta, Sexta, Domingo)**: Português.

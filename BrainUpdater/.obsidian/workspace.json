@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "📁🎓Faculdade/📁Desenvolvimento Back-End/📄Estrutura de um Projeto Back-End.md",
+                "file": "📁🎓Faculdade/📁 Fundamentos de Sistemas Operacionais/📄Gerenciamento de Memória.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "📄Estrutura de um Projeto Back-End"
+              "title": "📄Gerenciamento de Memória"
             }
           }
         ]
@@ -173,12 +173,25 @@
   },
   "active": "09e8f6f878d50526",
   "lastOpenFiles": [
+    "📁🎓Faculdade/📁Análise e Projeto de Sistemas Web/📁Fundametos de Engenharia de Sistemas/📄Ciclo de Vida do Desenvolvimento de Sistemas.md",
+    "📁🎓Faculdade/📁 Fundamentos de Sistemas Operacionais/📄Gerenciamento de Memória.md",
+    "📄Casos de Uso em UML.md",
+    "Pasted image 20250317190944.png",
+    "📁🎓Faculdade/📁Análise e Projeto de Sistemas Web/📁Fundametos de Engenharia de Sistemas/📄Engenharia de Requisitos.md",
+    "Pasted image 20250317103119.png",
+    "📁🎓Faculdade/📁Análise e Projeto de Sistemas Web/📁Fundametos de Engenharia de Sistemas/📄Visão geral sobre Análise de Projeto de Sistemas.md",
+    "📁🎓Faculdade/📁 Análise e Elicitação de Requisitos/📄 Requisitos de Software.md",
+    "🌀CICLOS.md",
+    "📁🎓Faculdade/📁Arquitetura de Design UX-UI/📄Aula 2 - Identificação de Necessidades dos Usuários, Síntese de Dados e Prototipação.md",
+    "📁🎓Faculdade/📁Arquitetura de Design UX-UI/📄Aula 1 - A Importância da Arquitetura de Design UX-UI e Design Thinking.md",
+    "📁🎓Faculdade/📁Arquitetura de Design UX-UI/Sem título",
+    "📁🎓Faculdade/📁Computação Forense/📄Aula 01 - Conceitos Iniciais sobre Computação Forense e Segurança.md",
+    "📁🎓Faculdade/📁Computação Forense/📄 Incidentes, Ataques e Métodos de Prevenção em Segurança.md",
+    "📁🎓Faculdade/📁 Análise e Elicitação de Requisitos/📄Requisitos Resumo.md",
+    "📁🎓Faculdade/📁Desenvolvimento Back-End/📄Estrutura de um Projeto Back-End.md",
+    "Pasted image 20250314184027.png",
     "Pasted image 20250314092917.png",
     "Pasted image 20250314092423.png",
-    "🌀CICLOS.md",
-    "📁🎓Faculdade/📁Desenvolvimento Back-End/📄Estrutura de um Projeto Back-End.md",
-    "📁🎓Faculdade/📁Computação Forense/📄 Incidentes, Ataques e Métodos de Prevenção em Segurança.md",
-    "📁🎓Faculdade/📁Computação Forense/📄Aula 01 - Conceitos Iniciais sobre Computação Forense e Segurança.md",
     "📁🎓Faculdade/📁 Fundamentos de Sistemas Operacionais/📄Introdução a Sistemas Operacionais.md",
     "📁🎓Faculdade/📁 Matemática Aplicada/📄 Introdução a Teoria dos Conjuntos.md",
     "Pasted image 20250313202648.png",
@@ -188,22 +201,17 @@
     "TRIADE CIA.md",
     "Pasted image 20250313113737.png",
     "Conjunto Finito X Conjunto Limitado.md",
-    "📁🎓Faculdade/📁Análise e Projeto de Sistemas Web/📁Fundametos de Engenharia de Sistemas/📄Visão geral sobre Análise de Projeto de Sistemas.md",
     "Teoria Geral dos Sistemas.md",
-    "📁🎓Faculdade/📁 Análise e Elicitação de Requisitos/📄 Requisitos de Software.md",
     "📁🎓Faculdade/📁 Banco De Dados/📁 Programação Em Banco de Dados/📄 Revisão de Conceitos (SQL).md",
     "📁🎓Faculdade/📁 Fundamentos de Sistemas Operacionais/📄 Processos e Threads.md",
     "📁🎓Faculdade/📁 Banco De Dados/📁 Introdução ao Banco de Dados/📄Modelagem de Banco de Dados.md",
     "📁🎓Faculdade/📁 Banco De Dados/📁 Introdução ao Banco de Dados/📄 Conceitos em Sistemas de Banco de Dados.md",
-    "Pasted image 20250310184223.png",
     "📁🎓Faculdade/📁UCE3/📄Uso de Tecnologias na Sociedade Contemporânea.md",
     "📁🎓Faculdade/📁Desenvolvimento Back-End/📄Introdução ao Desenvolvimento Back-End e APIs RESTful.md",
     "📁🎓Faculdade/📁UCE3",
     "📁🎓Faculdade/📁 UCE1/📄 Organização Podcast.md",
     "📁🎓Faculdade/📁 UCE1",
     "🧠 GUIA.md",
-    "📁🎓Faculdade/📁 Banco De Dados/📁 Programação Em Banco de Dados",
-    "Pasted image 20250306182312.png",
-    "Pasted image 20250306182013.png"
+    "📁🎓Faculdade/📁 Banco De Dados/📁 Programação Em Banco de Dados"
   ]
 }

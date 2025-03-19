@@ -1,0 +1,23 @@
+#Faculdade #Concurso 
+___
+O SDLC é um processo padronizado que descreve diferentes estágios para a criação de softwares de alta qualidade. Foi concebido na década de 1970 como uma maneira de formular o desenvolvimento de grandes sistemas empresariais, mas continua sendo relevante hoje, funcionando como um guia para as etapas que um produto percorre até o sucesso.
+Geralmente, o SDLC é composto por seis estágios de desenvolvimento de software
+![[Pasted image 20250317103119.png]]
+## Planejamento
+A fase de planejamento é a primeira etapa do ciclo de desenvolvimento de software e envolve a definição do escopo do projeto, estimativas de tempo e custo, e os recursos necessários. Durante essa fase, são estabelecidos os objetivos gerais do projeto e a viabilidade de seu desenvolvimento, considerando os requisitos de negócios, técnicos e financeiros. O planejamento detalhado ajuda a evitar imprevistos durante o desenvolvimento e serve como guia para as demais etapas do processo.
+## Análise de Requisitos
+Na análise de requisitos, as necessidades dos stakeholders são levantadas e detalhadas. O objetivo principal dessa fase é entender claramente o que o software deve fazer e como ele deve se comportar. Isso inclui identificar requisitos funcionais (o que o sistema deve realizar) e não funcionais (como o sistema deve operar, por exemplo, desempenho e segurança). Os requisitos coletados são organizados e documentados para garantir que todas as expectativas sejam atendidas ao longo do desenvolvimento.
+## Design
+A fase de design envolve a criação da arquitetura do sistema e o planejamento detalhado de sua estrutura. O arquiteto de software define como os componentes do sistema serão organizados e como irão interagir, assegurando que o design atenda aos requisitos definidos anteriormente. Além disso, é durante o design que a interface com o usuário (UX/UI) e outros aspectos visuais do sistema começam a ser planejados, garantindo uma experiência de uso eficiente e intuitiva.
+## Codificação e Testagem
+A codificação é a fase em que os programadores transformam o design do sistema em código executável, implementando as funcionalidades definidas nos requisitos. Após a codificação, inicia-se a testagem, onde a equipe de qualidade (QA) executa testes para identificar e corrigir erros e falhas no sistema, garantindo que ele funcione conforme esperado. A testagem pode ocorrer de forma contínua durante o desenvolvimento, especialmente em metodologias ágeis.
+## Implantação
+ fase de implantação é quando o software é finalmente disponibilizado para os usuários. Isso pode envolver a instalação do sistema nos ambientes de produção, treinamento de usuários e a transferência de dados de sistemas antigos, caso necessário. Dependendo da abordagem adotada, a implantação pode ser realizada de forma gradual ou em um único evento, com o objetivo de garantir que o sistema funcione corretamente em um ambiente real.
+## Manutenção
+A manutenção é a última fase do ciclo de desenvolvimento, que envolve o monitoramento e a atualização contínua do software após sua implantação. Durante essa fase, são corrigidos bugs e falhas que podem surgir, além de serem feitas melhorias ou adaptações conforme o feedback dos usuários ou mudanças nos requisitos. A manutenção assegura que o software continue a operar de forma eficiente e relevante, mesmo após sua entrega inicial.
+___
+## Metodologias de Desenvolvimento
+- **Modelo Cascata (Waterfall):** o modelo cascata foi o primeiro método de desenvolvimento de software descrito no artigo de Rey na década de 1970. Ele segue rigorosamente as fases do SDLC, começando uma fase somente depois que a anterior for concluída. Embora esse modelo seja bem definido, ele caiu em desuso na engenharia devido à falta de flexibilidade.
+- ![[Pasted image 20250317190944.png]]
+- **Metodologia Ágil (Agile)**: a filosofia ágil, que surgiu em 2001 com a criação do Manifesto Ágil, oferece uma resposta ao modelo cascata, buscando maior flexibilidade e entregas mais rápidas. Com o ágil, os testes não são separados da construção do software; ao invés disso, acontecem em cada iteração, como no Scrum, onde o desenvolvimento é dividido em ciclos menores, chamados "sprints".
+- **DevOps:** uma abordagem mais recente, o DevOps, promove uma mudança cultural, onde equipes de desenvolvimento, QA e operações trabalham juntas, eliminando as barreiras entre esses departamentos. O ciclo de vida do DevOps é visualizado como um loop infinito, colaborando e se comunicando em cada fase.
