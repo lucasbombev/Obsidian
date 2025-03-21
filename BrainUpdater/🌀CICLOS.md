@@ -16,11 +16,11 @@ Ciclo de número -> 1✅
    - Arquitetura de Design UX-UI - 
 
 2. **Grupo B**:
-   - Computação Forense - 
-   - Desenvolvimento Back-End - 
-   - Elicitação e Análise de Requisitos - 
+   - Computação Forense - ✅ UNIDADE 1 BATIDO
+   - Desenvolvimento Back-End - ✅ UNIDADE 1 BATIDO
+   - Elicitação e Análise de Requisitos - ✅Unidade 1 BATIDO
 1. **Grupo C**:
-   - Fundamentos de Sistemas Operacionais - ✅ UNIDADE 1 BATIDO, RESPONDER COLEGA FÓRUM
+   - Fundamentos de Sistemas Operacionais - ✅ UNIDADE 1 BATIDO
    - Matemática Aplicada - ✅ UNIDADE 1 BATIDO
    - Prática de Leitura e Produção de Texto - 
 
