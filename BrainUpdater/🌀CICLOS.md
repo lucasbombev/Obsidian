@@ -12,8 +12,8 @@ Vamos dividir as 12 disciplinas em 4 grupos de 3 disciplinas cada, para garantir
 Ciclo de número -> 1✅
 1. **Grupo A**:
    - Algoritmos e Programação - ✅ UNIDADE 1 BATIDO
-   - Análise e Projeto de Sistemas Web - 
-   - Arquitetura de Design UX-UI - 
+   - Análise e Projeto de Sistemas Web - ✅ UNIDADE 1 BATIDO
+   - Arquitetura de Design UX-UI - ✅ UNIDADE 1 BATIDO
 
 2. **Grupo B**:
    - Computação Forense - ✅ UNIDADE 1 BATIDO

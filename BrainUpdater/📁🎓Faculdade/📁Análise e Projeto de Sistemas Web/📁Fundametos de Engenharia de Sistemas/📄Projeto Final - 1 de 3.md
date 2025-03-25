@@ -1,0 +1,9 @@
+___
+Bem-vindo(a) ao início do seu projeto final! Nesta etapa da disciplina "Análise e Projeto de Sistemas Web", você dará os primeiros passos na construção de um sistema web, aplicando os conceitos que foram abordados até agora.
+
+- **Escolha do Sistema:** Para iniciar, cada estudante deve selecionar um dos três sistemas disponíveis no diretório "Apoio/Sistemas", na Biblioteca da Unidade, para trabalhar ao longo do desenvolvimento da disciplina. Esses sistemas têm o mesmo grau de complexidade e serão a base para o seu trabalho durante as próximas etapas.
+- **Documentação dos Requisitos:** Com base no conteúdo apresentado na Unidade I, o primeiro passo é documentar os requisitos funcionais e não funcionais do sistema escolhido. Utilize o modelo disponível na pasta "Apoio\DocRequisitos" para essa documentação. 
+- **Diagrama e Descrição de Casos de Uso:** Além da documentação dos requisitos, sugerimos a construção dos diagramas de casos de uso, que são fundamentais para descrever as interações entre os usuários e o sistema. Cada caso de uso também deve ser descrito de forma detalhada, abordando os passos envolvidos, fluxos alternativos e exceções.
+- **Estrutura do Projeto Final:** O projeto final está estruturado em três partes. Os documentos gerados a partir desta webaula correspondem à Parte I do projeto, que deverá ser entregue juntamente com a conclusão da Parte III, no final da disciplina. Embora o envio final seja apenas ao término da disciplina, recomendamos que você inicie desde já o trabalho de documentação, pois essa etapa pode ser demorada e exigirá atenção aos detalhes.
+
+Boa sorte e aproveite a oportunidade para aplicar de forma prática os conceitos que você aprendeu até agora!
