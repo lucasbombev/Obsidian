@@ -11,10 +11,14 @@
             "id": "df0a6331ae3f5eb0",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "🌀CICLOS.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nova aba"
+              "title": "🌀CICLOS"
             }
           }
         ]

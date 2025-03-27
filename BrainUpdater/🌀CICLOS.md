@@ -22,7 +22,7 @@ Ciclo de número -> 1✅
 1. **Grupo C**:
    - Fundamentos de Sistemas Operacionais - ✅ UNIDADE 1 BATIDO
    - Matemática Aplicada - ✅ UNIDADE 1 BATIDO
-   - Prática de Leitura e Produção de Texto - 
+   - Prática de Leitura e Produção de Texto - ✅ UNIDADE 1 BATIDO  
 
 4. **Grupo D**:
    - Programação em Banco de Dados - 
