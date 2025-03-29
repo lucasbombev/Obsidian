@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "📁🎓Faculdade/📁 Banco De Dados/📁 Programação Em Banco de Dados/📄Procedimentos e Gatilhos.md",
+                "file": "📁🎓Faculdade/📁Análise e Projeto de Sistemas Web/📁 Prototipação e Modelagem para Web/📄UML e seus diagramas.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "📄Procedimentos e Gatilhos"
+              "title": "📄UML e seus diagramas"
             }
           }
         ]
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "861eff80480cf1eb",
@@ -172,13 +173,17 @@
   },
   "active": "df0a6331ae3f5eb0",
   "lastOpenFiles": [
+    "Pasted image 20250329114233.png",
+    "Pasted image 20250329113907.png",
+    "Pasted image 20250329113616.png",
     "📁🎓Faculdade/📁Análise e Projeto de Sistemas Web/📁 Prototipação e Modelagem para Web/📄 Refinando Requisitos com Prototipação.md",
+    "📁🎓Faculdade/📁Análise e Projeto de Sistemas Web/📁 Prototipação e Modelagem para Web/📄UML e seus diagramas.md",
     "🌀CICLOS.md",
+    "📁🎓Faculdade/📁 Banco De Dados/📁 Programação Em Banco de Dados/📄Procedimentos e Gatilhos.md",
     "📁🎓Faculdade/📁Análise e Projeto de Sistemas Web/📁 Prototipação e Modelagem para Web",
     "📁🎓Faculdade/📁 Banco De Dados/📁 Programação Em Banco de Dados/📄 Revisão de Conceitos (SQL).md",
     "Relatório.md",
     "📁🎓Faculdade/📁 Banco De Dados/📁 Programação Em Banco de Dados/📄Expressões JOIN.md",
-    "📁🎓Faculdade/📁 Banco De Dados/📁 Programação Em Banco de Dados/📄Procedimentos e Gatilhos.md",
     "📁🎓Faculdade/📁 Banco De Dados/📁 Programação Em Banco de Dados/📄Views.md",
     "Pasted image 20250327132626.png",
     "📁🎓Faculdade/📁Arquitetura de Design UX-UI/📄Aula 2 - Identificação de Necessidades dos Usuários, Síntese de Dados e Prototipação.md",
@@ -202,14 +207,10 @@
     "📁🎓Faculdade/📁 Fundamentos de Sistemas Operacionais/📄Gerenciamento de Memória.md",
     "📁🎓Faculdade/📁 Fundamentos de Sistemas Operacionais/📄Introdução a Sistemas Operacionais.md",
     "Pasted image 20250319204638.png",
-    "Pasted image 20250319193251.png",
-    "Pasted image 20250319192839.png",
     "📁🎓Faculdade/📁Análise e Projeto de Sistemas Web/📁Fundametos de Engenharia de Sistemas/📄Ciclo de Vida do Desenvolvimento de Sistemas.md",
     "📄Casos de Uso em UML.md",
     "📁🎓Faculdade/📁Arquitetura de Design UX-UI/📄Aula 1 - A Importância da Arquitetura de Design UX-UI e Design Thinking.md",
     "📁🎓Faculdade/📁Arquitetura de Design UX-UI/Sem título",
-    "📁🎓Faculdade/📁Computação Forense/📄Aula 01 - Conceitos Iniciais sobre Computação Forense e Segurança.md",
-    "📁🎓Faculdade/📁Computação Forense/📄 Incidentes, Ataques e Métodos de Prevenção em Segurança.md",
     "📁🎓Faculdade/📁UCE3",
     "📁🎓Faculdade/📁 UCE1",
     "📁🎓Faculdade/📁 Banco De Dados/📁 Programação Em Banco de Dados"
