@@ -4,6 +4,8 @@ As expressões JOIN em SQL são fundamentais para realizar consultas que envolve
 ## O que é ?
 Um JOIN (ou junção) é uma operação em SQL que permite recuperar dados de duas ou mais tabelas que estão relacionadas. As junções são usadas para agregar dados, facilitando a análise e a visualização de informações que estão distribuídas em várias tabelas.
 ## Principais tipos de JOIN
+![[Pasted image 20250327132626.png]]
+
 ### Inner JOIN
 O INNER JOIN retorna apenas os registros que têm correspondência nas duas tabelas. É o tipo de JOIN mais comum. É como se fosse a interseção na teoria dos conjuntos, O **INNER JOIN** retorna apenas os registros que têm correspondências em ambas as tabelas.
 Claro! Vou te dar um exemplo simples de como usar o **INNER JOIN** em SQL.
