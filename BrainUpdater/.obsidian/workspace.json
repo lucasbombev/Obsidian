@@ -13,12 +13,21 @@
             "state": {
               "type": "markdown",
               "state": {
+<<<<<<< HEAD
                 "file": "📁📖Vestibulares/📂 Língua Portuguesa/📁 Morfologia II/📄Substantivo - Classificação e flexão.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
               "title": "📄Substantivo - Classificação e flexão"
+=======
+                "file": "📁🎓Faculdade/📁Análise e Projeto de Sistemas Web/📁 Prototipação e Modelagem para Web/📄UML e seus diagramas.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "📄UML e seus diagramas"
+>>>>>>> d290a83b86e0b3bb66c6450b518e52e65229a503
             }
           }
         ]
@@ -173,6 +182,7 @@
   },
   "active": "df0a6331ae3f5eb0",
   "lastOpenFiles": [
+<<<<<<< HEAD
     "Pasted image 20250331211905.png",
     "Pasted image 20250331211720.png",
     "Pasted image 20250331204713.png",
@@ -185,6 +195,15 @@
     "🌀CICLOS.md",
     "📁🎓Faculdade/📁 Banco De Dados/📁 Programação Em Banco de Dados/📄Procedimentos e Gatilhos.md",
     "📁🎓Faculdade/📁Análise e Projeto de Sistemas Web/📁 Prototipação e Modelagem para Web/📄 Refinando Requisitos com Prototipação.md",
+=======
+    "Pasted image 20250329114233.png",
+    "Pasted image 20250329113907.png",
+    "Pasted image 20250329113616.png",
+    "📁🎓Faculdade/📁Análise e Projeto de Sistemas Web/📁 Prototipação e Modelagem para Web/📄 Refinando Requisitos com Prototipação.md",
+    "📁🎓Faculdade/📁Análise e Projeto de Sistemas Web/📁 Prototipação e Modelagem para Web/📄UML e seus diagramas.md",
+    "🌀CICLOS.md",
+    "📁🎓Faculdade/📁 Banco De Dados/📁 Programação Em Banco de Dados/📄Procedimentos e Gatilhos.md",
+>>>>>>> d290a83b86e0b3bb66c6450b518e52e65229a503
     "📁🎓Faculdade/📁Análise e Projeto de Sistemas Web/📁 Prototipação e Modelagem para Web",
     "📁🎓Faculdade/📁 Banco De Dados/📁 Programação Em Banco de Dados/📄 Revisão de Conceitos (SQL).md",
     "Relatório.md",
@@ -211,6 +230,12 @@
     "Pasted image 20250217182618.png",
     "📁🎓Faculdade/📁 Fundamentos de Sistemas Operacionais/📄Gerenciamento de Memória.md",
     "Pasted image 20250319204638.png",
+<<<<<<< HEAD
+=======
+    "📁🎓Faculdade/📁Análise e Projeto de Sistemas Web/📁Fundametos de Engenharia de Sistemas/📄Ciclo de Vida do Desenvolvimento de Sistemas.md",
+    "📄Casos de Uso em UML.md",
+    "📁🎓Faculdade/📁Arquitetura de Design UX-UI/📄Aula 1 - A Importância da Arquitetura de Design UX-UI e Design Thinking.md",
+>>>>>>> d290a83b86e0b3bb66c6450b518e52e65229a503
     "📁🎓Faculdade/📁Arquitetura de Design UX-UI/Sem título",
     "📁🎓Faculdade/📁UCE3",
     "📁🎓Faculdade/📁 UCE1",
