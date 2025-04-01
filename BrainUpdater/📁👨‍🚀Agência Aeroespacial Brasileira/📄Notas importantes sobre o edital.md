@@ -1,2 +1,0 @@
-#Concurso #Software #AEB 
-___
