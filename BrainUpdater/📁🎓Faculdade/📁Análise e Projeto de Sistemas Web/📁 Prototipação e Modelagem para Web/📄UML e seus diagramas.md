@@ -1,4 +1,4 @@
-tags: #AnaliseDeProjetos #Faculdade 
+ucastags: #AnaliseDeProjetos #Faculdade 
 ___
 ## Introdução a UML
 A Unified Modeling Language (UML) é uma linguagem padronizada para modelagem de sistemas de software, amplamente utilizada na engenharia de software para descrever, visualizar, especificar e documentar os componentes de um sistema. Criada inicialmente na década de 1990 por Grady Booch, James Rumbaugh e Ivar Jacobson, a UML tornou-se uma norma internacional pela Object Management Group (OMG). A sua principal força reside na capacidade de representar de forma gráfica diferentes aspectos de um sistema, incluindo sua estrutura, comportamento e interações, permitindo que desenvolvedores, analistas e stakeholders comuniquem-se de maneira clara e compreensível.

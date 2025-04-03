@@ -1,4 +1,4 @@
-tags: #Vestibulares #LínguaPortuguesa #CBMPB
+tags: #Vestibulares #LínguaPortuguesa #CBMPB #Concurso 
 ___
 ## Raiz
 A raiz é o elemento originário e irredutível da em que se concentra a significação das palavras.

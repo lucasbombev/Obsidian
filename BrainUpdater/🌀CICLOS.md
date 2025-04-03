@@ -13,20 +13,24 @@ Ciclo de número -> 1✅
 1. **Grupo A**:
    - Algoritmos e Programação - ✅ UNIDADE 2 BATIDA 
    - Análise e Projeto de Sistemas Web - 
-   - Arquitetura de Design UX-UI - 
+   - Arquitetura de Design UX-UI -
+   - Português - ✅
 1. **Grupo B**:
    - Computação Forense - 
    - Desenvolvimento Back-End - 
-   - Elicitação e Análise de Requisitos - 
+   - Elicitação e Análise de Requisitos -
+   - Português - 
 1. **Grupo C**:
    - Fundamentos de Sistemas Operacionais - 
    - Matemática Aplicada - 
    - Prática de Leitura e Produção de Texto -   
+   - Português - 
 
 4. **Grupo D**:
    - Programação em Banco de Dados - 
    - UCE0001 - 
    - UCE0003 - 
+   - Português -
 
 ### Distribuição das Disciplinas de Concurso:
 - **Dias pares (Segunda, Quarta, Sexta, Domingo)**: Português.

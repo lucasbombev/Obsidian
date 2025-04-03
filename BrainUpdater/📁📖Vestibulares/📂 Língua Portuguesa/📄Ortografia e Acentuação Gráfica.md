@@ -1,4 +1,4 @@
-Tags: #Vestibulares #LínguaPortuguesa #CBMPB
+Tags: #Vestibulares #LínguaPortuguesa #CBMPB #Concurso 
 Esta é a primeira aula do curso de Língua Portuguesa do Curso CBMERJ do Estratégia Militares
 
 ___

@@ -1,4 +1,4 @@
-tags: #Vestibulares #LínguaPortuguesa #CBMPB 
+tags: #Vestibulares #LínguaPortuguesa #CBMPB #Concurso 
 ___
 
 O primeiro passo para entendermos os [[processos de formação]] de palavras é percebermos que em português há:
