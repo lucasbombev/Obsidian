@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "7f05c9429b1cde7c",
@@ -175,10 +176,10 @@
   "lastOpenFiles": [
     "📁🎓Faculdade/📁Arquitetura de Design UX-UI/📁 Unidade 2/📄 Design Interativo, Fluxos de Usuário e Leis de UX.md",
     "📁🎓Faculdade/📁Arquitetura de Design UX-UI/📁 Unidade 2/📄Leis e Princípios de UX.md",
+    "🌀CICLOS.md",
     "REPRESENTAÇÃO VISUAL DE FLUXOS(CLIQUE).md",
     "📁🎓Faculdade/📁Arquitetura de Design UX-UI/📁 Unidade 1/📄Aula 2 - Identificação de Necessidades dos Usuários, Síntese de Dados e Prototipação.md",
     "📁🎓Faculdade/📁Arquitetura de Design UX-UI/📁 Unidade 2",
-    "🌀CICLOS.md",
     "📁🎓Faculdade/📁Arquitetura de Design UX-UI/📁 Unidade 1",
     "📁📖Vestibulares/📂 Língua Portuguesa/📁 Morfologia II/📄Artigo.md",
     "📁📖Vestibulares/📂 Língua Portuguesa/📁 Morfologia II/📄Substantivo - Classificação e flexão.md",
