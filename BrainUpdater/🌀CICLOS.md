@@ -18,8 +18,8 @@ Ciclo de número -> 1✅
 1. **Grupo B**:
    - Computação Forense - 
    - Desenvolvimento Back-End - 
-   - Elicitação e Análise de Requisitos -
-   - Português - 
+   - Elicitação e Análise de Requisitos - 
+   - Português - ✅
 1. **Grupo C**:
    - Fundamentos de Sistemas Operacionais - 
    - Matemática Aplicada - 
