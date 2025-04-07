@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🌀CICLOS.md",
+                "file": "📁🎓Faculdade/📁Computação Forense/📁 Unidade 2/📄Criptografia em Sistemas para Internet.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "🌀CICLOS"
+              "title": "📄Criptografia em Sistemas para Internet"
             }
           }
         ]
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "7f05c9429b1cde7c",
@@ -173,13 +174,19 @@
   },
   "active": "843c5cdbd14e206b",
   "lastOpenFiles": [
+    "Pasted image 20250407175204.png",
+    "Pasted image 20250407175032.png",
+    "APROFUNDAR DES E AES.md",
+    "📁🎓Faculdade/📁Computação Forense/📁 Unidade 2/📄Criptografia em Sistemas para Internet.md",
+    "Pasted image 20250407150536.png",
+    "Pasted image 20250407150434.png",
+    "Pasted image 20250407145328.png",
+    "🌀CICLOS.md",
     "📁📖Vestibulares/📂 Língua Portuguesa/📁 Morfologia II/📄Numeral.md",
     "📁📖Vestibulares/📂 Língua Portuguesa/📁 Morfologia II/📄Adjetivo.md",
     "📁📖Vestibulares/📂 Língua Portuguesa/📁 Morfologia II/📄Artigo.md",
     "📁📖Vestibulares/📂 Língua Portuguesa/📁 Morfologia II/📄Substantivo - Classificação e flexão.md",
     "📁🎓Faculdade/📁Computação Forense/📁 Unidade 2/📄Numeral.md",
-    "🌀CICLOS.md",
-    "📁🎓Faculdade/📁Computação Forense/📁 Unidade 2/📄Criptografia em Sistemas para Internet.md",
     "Pasted image 20250405104631.png",
     "📁🎓Faculdade/📁Computação Forense/📁 Unidade 1/📄 Incidentes, Ataques e Métodos de Prevenção em Segurança.md",
     "📁🎓Faculdade/📁Computação Forense/📁 Unidade 1/📄Aula 01 - Conceitos Iniciais sobre Computação Forense e Segurança.md",
@@ -200,7 +207,6 @@
     "Pasted image 20250401160031.png",
     "Pasted image 20250401155851.png",
     "Pasted image 20250401155757.png",
-    "Pasted image 20250401155650.png",
     "📁🎓Faculdade/📁Análise e Projeto de Sistemas Web/📁 Prototipação e Modelagem para Web 1/📄UML e seus diagramas.md",
     "📁🎓Faculdade/📁Análise e Projeto de Sistemas Web/📁 Prototipação e Modelagem para Web 1/📄Engenharia Web Baseada na UML (UWE).md",
     "📁🎓Faculdade/📁Análise e Projeto de Sistemas Web/📁 Prototipação e Modelagem para Web 1/📄 Refinando Requisitos com Prototipação.md",
@@ -209,8 +215,6 @@
     "📁📖Vestibulares/📂 Língua Portuguesa/📁 Morfologia I/📄Morfologia I - Aula III - Derivação prefixal, sufixal, prefixal e sufixal, parassíntese.md",
     "📁📖Vestibulares/📂 Língua Portuguesa/📁 Morfologia I/📄Morfologia I - Aula II - Composição por justaposição e aglutinação.md",
     "📁📖Vestibulares/📂 Língua Portuguesa/📁 Morfologia I/📄Morfologia I - Aula I - radical - afixos - vogal temática.md",
-    "📁📖Vestibulares/📂 Língua Portuguesa/📄Ortografia e Acentuação Gráfica.md",
-    "📁🎓Faculdade/📁Análise e Projeto de Sistemas Web/📁 Prototipação e Modelagem para Web/📄 Refinando Requisitos com Prototipação.md",
-    "📁🎓Faculdade/📁Análise e Projeto de Sistemas Web/📁 Prototipação e Modelagem para Web/📄UML e seus diagramas.md"
+    "📁📖Vestibulares/📂 Língua Portuguesa/📄Ortografia e Acentuação Gráfica.md"
   ]
 }
