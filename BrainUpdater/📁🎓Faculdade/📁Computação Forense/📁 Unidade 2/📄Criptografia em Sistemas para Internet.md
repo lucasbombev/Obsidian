@@ -102,4 +102,47 @@ ___
 
 ___
 # Funções Hash
+As **funções hash** são algoritmos essenciais em criptografia e segurança da informação. Elas transformam **qualquer dado de entrada** (texto, arquivo, senha) em um **valor fixo de tamanho definido**, chamado **hash**.
+
+
+#### **Principais Características:**
+
+1. **Determinística** → A mesma entrada sempre gera o mesmo hash.
+2. **Irreversível** → Não é possível recuperar o dado original a partir do hash.
+3. **Resistente a colisões** → É extremamente difícil encontrar duas entradas diferentes que gerem o mesmo hash.
+4. **Pequena mudança, grande diferença** → Alterar um bit na entrada muda completamente o hash.
+
+> [!Funcionamento de hash]
+> ![[Pasted image 20250407192052.png]]
+
+### como uma Hash funciona?
+Imagine uma função hash como uma **máquina de moer carne**:
+- **Entrada**: Dados (ex.: `"senha123"`).
+- **Processamento**: Algoritmo matemático (ex.: SHA-256).
+- **Saída**: Hash (ex.: `"ef92b778..."`).
+**Exemplo Prático:**
+
+| Entrada | Hash (SHA-256) |                                  |
+| ------- | -------------- | -------------------------------- |
+| `"Olá"` | `d1e43e...`    |                                  |
+| `"olá"` | `a4d55b...`    | _(Note que só mudou uma letra!)_ |
+### **Principais Algoritmos de Hash**
+
+| Algoritmo      | Tamanho do Hash | Uso Comum                                  |
+| -------------- | --------------- | ------------------------------------------ |
+| **MD5**        | 128 bits        | ❌ Obsoleto (vulnerável a colisões)         |
+| **SHA-1**      | 160 bits        | ❌ Fraco (não recomendado)                  |
+| **SHA-256**    | 256 bits        | ✅ Bitcoin, senhas, integridade de arquivos |
+| **SHA-3**      | Variável        | ✅ Sucessor do SHA-2                        |
+| **Bcrypt**     | -               | ✅ Hash de senhas (com "salt")              |
+| **RIPEMD-160** | 160 bits        | ✅ Endereços Bitcoin                        |
+As funções hash podem ser utilizadas em algumas aplicações, como por exemplo:
+
+- **Verificação de integridade de arquivos**: usada para garantir que arquivos ou dados não foram alterados após serem gerados ou transmitidos. Calculando o hash original e comparando-o após a transmissão, é possível identificar qualquer alteração não autorizada​.
+- **Armazenamento seguro de senhas**: ao invés de guardar as senhas em texto puro, muitos sistemas armazenam apenas o hash das senhas, aumentando a segurança caso ocorra uma invasão e os dados sejam comprometidos​
+- **Assinaturas digitais**: as funções hash são usadas para criar um resumo criptográfico de dados, assegurando que o conteúdo assinado digitalmente não foi alterado. Esse resumo é fundamental para a autenticação e integridade dos dados em assinaturas digitais​
+
+> [!Principais Algoritmos de Hash]
+> - **Geração de identificadores únicos**: em sistemas de deduplicação de dados, hashes garantem que dados duplicados possam ser identificados e eliminados de forma eficiente, economizando armazenamento e melhorando o desempenho do sistema.
+> ![[Pasted image 20250407192913.png]]
 
