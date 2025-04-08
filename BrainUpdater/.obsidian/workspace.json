@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "146f5210768fe3ba",
+        "id": "33d26efffee76d26",
         "type": "tabs",
         "children": [
           {
-            "id": "b8e4807db4942fc7",
+            "id": "21a96a0d5ad213f9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "📁🎓Faculdade/📁Computação Forense/📁 Unidade 2/📄Criptografia em Sistemas para Internet.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "7f05c9429b1cde7c",
@@ -171,8 +172,11 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "b8e4807db4942fc7",
+  "active": "21a96a0d5ad213f9",
   "lastOpenFiles": [
+    "Pasted image 20250408140803.png",
+    "Pasted image 20250408140421.png",
+    "🌀CICLOS.md",
     "📁🎓Faculdade/📁Computação Forense/📁 Unidade 2/📄Criptografia em Sistemas para Internet.md",
     "Pasted image 20250407192913.png",
     "Pasted image 20250407192052.png",
@@ -182,7 +186,6 @@
     "Pasted image 20250407150536.png",
     "Pasted image 20250407150434.png",
     "Pasted image 20250407145328.png",
-    "🌀CICLOS.md",
     "📁📖Vestibulares/📂 Língua Portuguesa/📁 Morfologia II/📄Numeral.md",
     "📁📖Vestibulares/📂 Língua Portuguesa/📁 Morfologia II/📄Adjetivo.md",
     "📁📖Vestibulares/📂 Língua Portuguesa/📁 Morfologia II/📄Artigo.md",
@@ -204,7 +207,6 @@
     "📁🎓Faculdade/📁Arquitetura de Design UX-UI/📁 Unidade 2",
     "📁🎓Faculdade/📁Arquitetura de Design UX-UI/📁 Unidade 1",
     "📁🎓Faculdade/📁Análise e Projeto de Sistemas Web/📁 Prototipação e Modelagem para Web/📄Engenharia Web Baseada na UML (UWE).md",
-    "Pasted image 20250401160040.png",
     "📁🎓Faculdade/📁Análise e Projeto de Sistemas Web/📁 Prototipação e Modelagem para Web 1/📄UML e seus diagramas.md",
     "📁🎓Faculdade/📁Análise e Projeto de Sistemas Web/📁 Prototipação e Modelagem para Web 1/📄Engenharia Web Baseada na UML (UWE).md",
     "📁🎓Faculdade/📁Análise e Projeto de Sistemas Web/📁 Prototipação e Modelagem para Web 1/📄 Refinando Requisitos com Prototipação.md",

@@ -1,4 +1,6 @@
 Tags: #Faculdade  #Forense #Software 
+Bibliografia: [Criptografia e Segurança de Redes ](https://plataforma.bvirtual.com.br/Leitor/Publicacao/22446/pdf/11?code=oyx/sKFPSSsCdNe8wEkg0O/UXVVOF5Mu2HabnhlUeY4yQDzB+XEU4cnEJikH8uMipVLyXXll6W95Y1cBEqE2CA==)
+
 ___
 # Fundamentos de Criptografia
 ## O que é?
@@ -146,3 +148,74 @@ As funções hash podem ser utilizadas em algumas aplicações, como por exemplo
 > - **Geração de identificadores únicos**: em sistemas de deduplicação de dados, hashes garantem que dados duplicados possam ser identificados e eliminados de forma eficiente, economizando armazenamento e melhorando o desempenho do sistema.
 > ![[Pasted image 20250407192913.png]]
 
+___
+# Certificados / Assinaturas Digitais
+ O desenvolvimento mais importante a partir do trabalho sobre criptografia de chave pública é a assinatura digital. Esta oferece um conjunto de capacidades de segurança que seria difícil de implementar de qualquer outra maneira.
+ ## **Assinatura Digital (Como Funciona?)**
+
+É como um **carimbo único** que prova:
+1. **Quem enviou** (autenticidade).
+2. **Que o conteúdo não foi alterado** (integridade).
+
+#### **Passo a Passo**:
+
+1. **Você cria um "resumo" (hash) do documento** (como um código único compacto).
+2. **Criptografa esse resumo com sua chave privada** → Isso vira a **assinatura**.
+3. **Envia o documento + assinatura** para alguém.
+#### **Como o destinatário verifica?**
+
+1. **Descriptografa a assinatura com sua chave pública** (se funcionar, prova que foi você quem assinou).
+2. **Compara o resumo descriptografado com um novo hash do documento recebido** (se for igual, o documento não foi alterado).
+
+✅ **Se tudo bater**: Documento é **válido e autêntico**.
+
+---
+
+### **3. Certificado Digital (O que é?)**
+
+É como um **RG digital** que **vincula uma pessoa/empresa a uma chave pública**. Ele contém:
+
+- Nome do dono.
+    
+- Chave pública.
+    
+- **Assinatura de uma Autoridade Certificadora (CA)** (como um "cartório digital").
+    
+
+#### **Como funciona?**
+
+1. **Você gera um par de chaves (pública + privada)**.
+    
+2. **Envia sua chave pública + seus dados para uma CA** (ex.: Serasa, DigiCert).
+    
+3. **A CA verifica sua identidade e assina seu certificado** (usando a chave privada dela).
+    
+4. **Agora, quando você envia algo, inclui seu certificado**.
+    
+
+#### **Por que confiar no certificado?**
+
+- Seu navegador/OS já tem as **chaves públicas das CAs confiáveis** (como uma lista de cartórios conhecidos).
+    
+- Ele **verifica a assinatura da CA no certificado** para confirmar que é legítimo.
+ ![[Pasted image 20250408140421.png]]
+ Os certificados digitais são como carteiras de identidade virtuais para pessoas ou empresas. Eles contêm informações como nome, CPF/CNPJ e chave pública, que é usada para criptografar dados. Essa chave pública é associada a uma chave privada, que só o proprietário do certificado conhece. As Autoridades Certificadoras (ACs) são responsáveis por emitir e gerenciar esses certificados, garantindo a sua autenticidade.  
+ A assinaturas digitais, por sua vez, utilizam os certificados digitais para garantir a integridade e autenticidade de documentos eletrônicos. Ao assinar digitalmente um documento, o signatário utiliza sua chave privada para gerar uma assinatura digital única, que é anexada ao documento. Essa assinatura pode ser verificada por qualquer pessoa que possua a chave pública correspondente, garantindo que o documento não foi alterado desde que foi assinado e que o signatário é quem realmente afirma ser. 
+ As assinaturas digitais oferecem um alto nível de segurança e são amplamente utilizadas em transações eletrônicas, contratos digitais e processos governamentais.
+
+O algoritmo de assinatura digital deve repseitar os seguintes critérios:
+
+- **Criação do par de chaves:**
+    
+    - **Chave pública:** Essa chave é distribuída livremente e serve como um tipo de "cadeado" para criptografar dados.
+    - **Chave privada:** Essa chave é mantida em segredo pelo proprietário e é usada para "desbloquear" os dados criptografados com a chave pública.
+- **Criação do hash:**
+    - O documento a ser assinado é submetido a uma função hash, que gera uma representação única e curta desse documento (uma espécie de "impressão digital"). Essa representação é chamada de hash.
+- **Assinatura:**
+    - O proprietário utiliza sua chave privada para criptografar o hash. Essa assinatura digital é então anexada ao documento original.
+- **Verificação:**
+- Quem receber o documento pode utilizar a chave pública do proprietário para descriptografar a assinatura digital e obter o hash original.
+- Em seguida, o receptor calcula o hash do documento recebido e compara com o hash obtido da assinatura.
+- Se os hashes corresponderem, significa que o documento não foi alterado desde a assinatura e que a assinatura foi gerada pelo proprietário da chave privada correspondente à chave pública utilizada para a verificação.
+## Principais Algoritmos
+![[Pasted image 20250408140803.png]]
