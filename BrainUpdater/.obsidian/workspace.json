@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "📁🎓Faculdade/📁Computação Forense/📁 Unidade 2/📄Criptografia em Sistemas para Internet.md",
-                "mode": "preview",
+                "file": "📁🎓Faculdade/📁Computação Forense/📁 Unidade 2/📄Segurança da Informação e Conformidades.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "📄Criptografia em Sistemas para Internet"
+              "title": "📄Segurança da Informação e Conformidades"
             }
           }
         ]
@@ -174,10 +174,12 @@
   },
   "active": "21a96a0d5ad213f9",
   "lastOpenFiles": [
+    "Pasted image 20250408171153.png",
+    "📁🎓Faculdade/📁Computação Forense/📁 Unidade 2/📄Criptografia em Sistemas para Internet.md",
+    "📁🎓Faculdade/📁Computação Forense/📁 Unidade 2/📄Segurança da Informação e Conformidades.md",
     "Pasted image 20250408140803.png",
     "Pasted image 20250408140421.png",
     "🌀CICLOS.md",
-    "📁🎓Faculdade/📁Computação Forense/📁 Unidade 2/📄Criptografia em Sistemas para Internet.md",
     "Pasted image 20250407192913.png",
     "Pasted image 20250407192052.png",
     "Pasted image 20250407175204.png",
@@ -198,7 +200,6 @@
     "📁🎓Faculdade/📁Computação Forense/📁 Unidade 1",
     "📁🎓Faculdade/📁Arquitetura de Design UX-UI/📁 Unidade 2/📄Leis e Princípios de UX.md",
     "📁🎓Faculdade/📁Arquitetura de Design UX-UI/📁 Unidade 2/📄Avaliação de Protótipos com Usuários.md",
-    "Pasted image 20250404213235.png",
     "📁🎓Faculdade/📁Arquitetura de Design UX-UI/📁 Unidade 2/📄Prototipação Avançada com Ferramentas Digitais.md",
     "📁🎓Faculdade/📁Arquitetura de Design UX-UI/📁 Unidade 2/📄 Design Interativo, Fluxos de Usuário e Leis de UX.md",
     "📁🎓Faculdade/📁Arquitetura de Design UX-UI/📁 Unidade 2/📄 Arquitetura de Informação para Web.md",
@@ -214,7 +215,6 @@
     "Sem título.canvas",
     "📁📖Vestibulares/📂 Língua Portuguesa/📁 Morfologia I/📄Morfologia I - Aula III - Derivação prefixal, sufixal, prefixal e sufixal, parassíntese.md",
     "📁📖Vestibulares/📂 Língua Portuguesa/📁 Morfologia I/📄Morfologia I - Aula II - Composição por justaposição e aglutinação.md",
-    "📁📖Vestibulares/📂 Língua Portuguesa/📁 Morfologia I/📄Morfologia I - Aula I - radical - afixos - vogal temática.md",
-    "📁📖Vestibulares/📂 Língua Portuguesa/📄Ortografia e Acentuação Gráfica.md"
+    "📁📖Vestibulares/📂 Língua Portuguesa/📁 Morfologia I/📄Morfologia I - Aula I - radical - afixos - vogal temática.md"
   ]
 }
