@@ -52,31 +52,79 @@ A política de segurança é um documento estratégico de alto nível que estabe
 - Utilize auditorias internas e externas para verificar a conformidade com a ISO 27001.
 
 ## Aplicação Pŕatica dos controles da ISO/IEC 27001:2002
-#### Controle A.9 - Controle de Acesso
+Claro! Aqui está um resumo simples e direto dos pontos essenciais da **ISO 27001** para uma prova:
 
-**Descrição:** Restringir o acesso às informações com base na necessidade de conhecimento (principle of least privilege).
+### **1. O que é a ISO 27001?**  
+Norma internacional que define os requisitos para um **Sistema de Gestão de Segurança da Informação (SGSI)**. Objetivo: proteger dados contra ameaças e garantir confidencialidade, integridade e disponibilidade.
 
-- **Exemplo prático em sistemas web:**
-    - Desenvolvedores têm acesso apenas às áreas de código-fonte que estão diretamente envolvidos.
-    - Administradores de banco de dados podem acessar os dados, mas não as credenciais de autenticação dos usuários finais.
-- **Ferramentas para implementar:**
-    - Utilização de autenticação multifator (MFA).
-    - Logs de auditoria para monitorar quem acessa o quê e quando.
+### **2. Principais Conceitos**  
+- **CIA Triad**:  
+  - **Confidencialidade**: só pessoas autorizadas acessam informações.  
+  - **Integridade**: dados precisos e não alterados indevidamente.  
+  - **Disponibilidade**: acessíveis quando necessário.  
 
-**Impacto positivo:** Redução do risco de acessos não autorizados ou vazamento de dados devido a permissões excessivas.
+- **Avaliação de Riscos**: Identificar ameaças e vulnerabilidades para tratar riscos.  
 
-A Figura 1 ilustra o Controle A.9, aonde cada conta de usuário tem as permissões necessárias de acesso ao sistema, com regras bem definidas.  Para maiores detalhes, clique [aqui](https://www.cert.govt.nz/information-and-advice/critical-controls/principle-of-least-privilege/).
-![[Pasted image 20250408171153.png]]
-#### **Controle A.12.3 - Backup**
-Fonte: Infosec Solutions.
+### **3. Estrutura Básica (PDCA)**  
+- **Plan (Planejar)**: Definir política de segurança e avaliar riscos.  
+- **Do (Implementar)**: Aplicar controles de segurança.  
+- **Check (Monitorar)**: Auditorias e revisões.  
+- **Act (Agir)**: Melhorar continuamente.  
 
-**Descrição:** Assegurar que cópias de segurança sejam realizadas e protegidas contra acessos não autorizados.
+### **4. Controles Principais (Anexo A)**  
+Exemplos importantes:  
+- **A.5**: Políticas de segurança.  
+- **A.6**: Responsabilidades organizacionais.  
+- **A.7**: Controle de acesso físico e lógico.  
+- **A.8**: Segurança em operações (backup, antivírus).  
+- **A.9**: Criptografia.  
+- **A.13**: Resposta a incidentes.  
 
-- **Exemplo prático em sistemas web:**
-    - Backups diários automáticos dos bancos de dados de usuários, armazenados em data centers geograficamente distintos.
-    - Dados de backup criptografados com algoritmos robustos (ex.: AES-256) para evitar acessos indevidos.
-- **Ferramentas para implementar:**
-    - Soluções como AWS Backup, Azure Backup ou Veeam.
-    - Testes regulares de restauração para garantir que os backups são funcionais.
+### **5. Certificação**  
+- Requer implementação do SGSI, auditorias e manutenção contínua.  
 
-**Impacto positivo:** Minimização do impacto de incidentes como ataques de ransomware, permitindo recuperação rápida.
+### **6. Benefícios**  
+- Proteção de dados.  
+- Evita multas e perdas financeiras.  
+- Aumenta confiança de clientes.  
+
+**Dica para prova:** Foque em **CIA**, **ciclo PDCA**, **avaliação de riscos** e **controles do Anexo A**.  
+
+Espero que ajude! Boa sorte na prova! 🚀
+## [CLIQUE AQUI PARA VER UM RESUMO COMPLETO DA ISO 27001](https://www.estrategiaconcursos.com.br/blog/resumo-da-iso-27001/)
+___
+# Gestão de Riscos em Segurança da Informação
+A **ISO/IEC 27001:2022** coloca a **gestão de riscos** como a base para a implementação de controles e a priorização de ações de segurança. Gerir riscos significa identificar, avaliar e tratar as ameaças que podem comprometer os ativos de informação, sempre considerando o contexto organizacional.
+1. **Estabelecimento do Contexto**
+    - Identifique os ativos que precisam de proteção, incluindo informações, sistemas, pessoas e infraestrutura.
+    - Exemplos:
+        - Dados de clientes armazenados em um banco de dados.
+        - Sistemas de pagamento integrados a plataformas web.
+2. **Identificação de Riscos**
+    - Considere ameaças, vulnerabilidades e impactos potenciais nos ativos.
+    - **Ameaças típicas:**
+        - Phishing.
+        - Ataques de negação de serviço (DDoS).
+        - Vazamento de dados por erro humano.
+    - **Vulnerabilidades comuns:**
+        - Falhas de configuração.
+        - Software desatualizado.
+3. **Análise e Avaliação de Riscos**
+    - Determine o impacto (baixa, média, alta) e a probabilidade (remota, moderada, provável) de cada risco.
+    - Use uma **matriz de risco** para classificar e priorizar.
+## Conformidade Com Legislações
+A **ISO/IEC 27001:2022** enfatiza que as organizações devem identificar e cumprir todas as obrigações legais, regulatórias e contratuais relacionadas à segurança da informação. Isso inclui leis como a **LGPD (Lei Geral de Proteção de Dados)** no Brasil e a **GDPR (General Data Protection Regulation)** na União Europeia.
+
+#### Abordagem da norma para conformidade legal:
+
+1. **Identificação de Requisitos Legais e Contratuais**
+    
+    - Mapeie as leis aplicáveis ao setor da organização.
+    - Exemplos de requisitos legais para sistemas web:
+        - **LGPD**: Garantir consentimento para uso de dados pessoais.
+        - **GDPR**: Informar os titulares sobre como os dados são processados.
+2. **Implementação de Controles Relacionados à Privacidade**
+    
+    - **Anexo A da ISO 27001**: Fornece controles relacionados à privacidade, como:
+        - **A.18.1.4 - Privacidade e proteção de dados pessoais:** Medidas para atender a leis de proteção de dados.
+        - **A.8.2.3 - Classificação da informação:** Etiquetar informações sensíveis para evitar usos inadequados.
