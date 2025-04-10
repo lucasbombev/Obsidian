@@ -14,23 +14,19 @@ Ciclo de número -> 1✅
    - Algoritmos e Programação - ✅ UNIDADE 2 BATIDA APENAS PROVA
    - Análise e Projeto de Sistemas Web - ✅ UNIDADE 2 BATIDA APENAS PROJETO E PROVA
    - Arquitetura de Design UX-UI - ✅ UNIDADE 2 BATIDA APENAS PROVA
-   - Português - ✅
 1. **Grupo B**:
-   - Computação Forense - 
+   - Computação Forense - ✅ UNIDADE 2 BATIDA APENAS PROVA
    - Desenvolvimento Back-End - 
    - Elicitação e Análise de Requisitos - 
-   - Português - ✅
 1. **Grupo C**:
    - Fundamentos de Sistemas Operacionais - 
    - Matemática Aplicada - 
    - Prática de Leitura e Produção de Texto -   
-   - Português - 
 
 4. **Grupo D**:
    - Programação em Banco de Dados - 
    - UCE0001 - 
    - UCE0003 - 
-   - Português -
 
 ### Distribuição das Disciplinas de Concurso:
 - **Dias pares (Segunda, Quarta, Sexta, Domingo)**: Português.
