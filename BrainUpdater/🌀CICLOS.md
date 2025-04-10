@@ -17,7 +17,7 @@ Ciclo de número -> 1✅
 1. **Grupo B**:
    - Computação Forense - ✅ UNIDADE 2 BATIDA APENAS PROVA
    - Desenvolvimento Back-End - 
-   - Elicitação e Análise de Requisitos - 
+   - Elicitação e Análise de Requisitos - ✅ UNIDADE 2 BATIDA APENAS PROVA
 1. **Grupo C**:
    - Fundamentos de Sistemas Operacionais - 
    - Matemática Aplicada - 
