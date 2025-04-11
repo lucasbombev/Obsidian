@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "📁📖Vestibulares/📂 Língua Portuguesa/📂 Morfologia III/📄 Pronomes.md",
-                "mode": "source",
+                "file": "📁🎓Faculdade/📁Desenvolvimento Back-End/📂Unidade 2/📄Configuração e Conexão com Banco de Dados.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "📄 Pronomes"
+              "title": "📄Configuração e Conexão com Banco de Dados"
             }
           }
         ]
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "7f05c9429b1cde7c",
@@ -173,14 +174,20 @@
   },
   "active": "21a96a0d5ad213f9",
   "lastOpenFiles": [
+    "📁🎓Faculdade/📁Desenvolvimento Back-End/📂Unidade 2/📄Configuração e Conexão com Banco de Dados.md",
+    "📁🎓Faculdade/📁Desenvolvimento Back-End/📂Unidade 1/📄Estrutura de um Projeto Back-End.md",
+    "📁🎓Faculdade/📁Desenvolvimento Back-End/📂Unidade 2",
+    "📁🎓Faculdade/📁Desenvolvimento Back-End/📂Unidade 1",
+    "📁🎓Faculdade/📁Desenvolvimento Back-End/📂Unidade 1/📄Primeiros Passos com Rotas e Respostas.md",
+    "📁🎓Faculdade/📁Desenvolvimento Back-End/📂Unidade 1/📄Introdução ao Desenvolvimento Back-End e APIs RESTful.md",
+    "🌀CICLOS.md",
+    "📁📖Vestibulares/📂 Língua Portuguesa/📂 Morfologia III/📄 Pronomes.md",
     "Captura de tela de 2025-04-10 22-40-09.png",
     "Pasted image 20250410224010.png",
     "Pasted image 20250410221909.png",
     "Pasted image 20250410221604.png",
     "Pasted image 20250410215301.png",
     "Pasted image 20250410214423.png",
-    "🌀CICLOS.md",
-    "📁📖Vestibulares/📂 Língua Portuguesa/📂 Morfologia III/📄 Pronomes.md",
     "📁📖Vestibulares/📂 Língua Portuguesa/📂 Morfologia III",
     "📁📖Vestibulares/📂 Língua Portuguesa/📁 Morfologia II/Sem título",
     "📁🎓Faculdade/📁 Análise e Elicitação de Requisitos/📁 Unidade 2/📄 Processo de Engenharia de Requisitos.md",
@@ -188,7 +195,6 @@
     "Pasted image 20250410154205.png",
     "Pasted image 20250410154103.png",
     "Pasted image 20250410153953.png",
-    "Pasted image 20250410153835.png",
     "📁🎓Faculdade/📁 Análise e Elicitação de Requisitos/📁 Unidade 1/📄Requisitos Resumo.md",
     "📁🎓Faculdade/📁 Análise e Elicitação de Requisitos/📁 Unidade 1/📄 Requisitos de Software.md",
     "📁🎓Faculdade/📁 Análise e Elicitação de Requisitos/📁 Unidade 2",
@@ -214,10 +220,6 @@
     "📁🎓Faculdade/📁Arquitetura de Design UX-UI/📁 Unidade 1/📄Aula 2 - Identificação de Necessidades dos Usuários, Síntese de Dados e Prototipação.md",
     "📁🎓Faculdade/📁Arquitetura de Design UX-UI/📁 Unidade 2",
     "📁🎓Faculdade/📁Arquitetura de Design UX-UI/📁 Unidade 1",
-    "📁🎓Faculdade/📁Análise e Projeto de Sistemas Web/📁 Prototipação e Modelagem para Web/📄Engenharia Web Baseada na UML (UWE).md",
-    "📁🎓Faculdade/📁Análise e Projeto de Sistemas Web/📁 Prototipação e Modelagem para Web 1/📄UML e seus diagramas.md",
-    "📁🎓Faculdade/📁Análise e Projeto de Sistemas Web/📁 Prototipação e Modelagem para Web 1/📄Engenharia Web Baseada na UML (UWE).md",
-    "📁🎓Faculdade/📁Análise e Projeto de Sistemas Web/📁 Prototipação e Modelagem para Web 1",
     "Sem título.canvas"
   ]
 }
