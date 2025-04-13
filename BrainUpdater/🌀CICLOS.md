@@ -21,7 +21,7 @@ Ciclo de número -> 1✅
 1. **Grupo C**:
    - Fundamentos de Sistemas Operacionais - 
    - Matemática Aplicada - 
-   - Prática de Leitura e Produção de Texto -   
+   - Prática de Leitura e Produção de Texto - ✅  
 
 4. **Grupo D**:
    - Programação em Banco de Dados - 
