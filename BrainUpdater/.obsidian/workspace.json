@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "📁🎓Faculdade/📁 Fundamentos de Sistemas Operacionais/📁 Unidade 2/📄Sistemas de Arquivos.md",
-                "mode": "source",
+                "file": "📁🎓Faculdade/📁 Fundamentos de Sistemas Operacionais/📁 Unidade 1/📄 Processos e Threads.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "📄Sistemas de Arquivos"
+              "title": "📄 Processos e Threads"
             }
           }
         ]
@@ -65,7 +65,7 @@
             }
           },
           {
-            "id": "bdb27d1803962b4b",
+            "id": "ec977806dacac4d9",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -173,7 +173,21 @@
   },
   "active": "21a96a0d5ad213f9",
   "lastOpenFiles": [
+    "📁🎓Faculdade/📁 Fundamentos de Sistemas Operacionais/📁 Unidade 1/📄Gerenciamento de Memória.md",
+    "📁🎓Faculdade/📁 Fundamentos de Sistemas Operacionais/📁 Unidade 1/📄 Processos e Threads.md",
+    "📁🎓Faculdade/📁 Fundamentos de Sistemas Operacionais/📁 Unidade 1/📄Introdução a Sistemas Operacionais.md",
     "🌀CICLOS.md",
+    "📁🎓Faculdade/📁Análise e Projeto de Sistemas Web/📁 Prototipação e Modelagem para Web/📄Engenharia Web Baseada na UML (UWE).md",
+    "📁🎓Faculdade/📁Análise e Projeto de Sistemas Web/📁 Prototipação e Modelagem para Web/📄UML e seus diagramas.md",
+    "📁🎓Faculdade/📁Análise e Projeto de Sistemas Web/📁 Prototipação e Modelagem para Web/📄 Refinando Requisitos com Prototipação.md",
+    "📁🎓Faculdade/📁Computação Forense/📁 Unidade 1/📄 Incidentes, Ataques e Métodos de Prevenção em Segurança.md",
+    "📁🎓Faculdade/📁Arquitetura de Design UX-UI/📁 Unidade 1/📄Aula 1 - A Importância da Arquitetura de Design UX-UI e Design Thinking.md",
+    "📁🎓Faculdade/📁Arquitetura de Design UX-UI/📁 Unidade 1/📄Aula 2 - Identificação de Necessidades dos Usuários, Síntese de Dados e Prototipação.md",
+    "📁🎓Faculdade/📁Arquitetura de Design UX-UI/📁 Unidade 2/📄Leis e Princípios de UX.md",
+    "📁🎓Faculdade/📁Arquitetura de Design UX-UI/📁 Unidade 2/📄Avaliação de Protótipos com Usuários.md",
+    "📁🎓Faculdade/📁Arquitetura de Design UX-UI/📁 Unidade 2/📄 Design Interativo, Fluxos de Usuário e Leis de UX.md",
+    "📁🎓Faculdade/📁Arquitetura de Design UX-UI/📁 Unidade 2/📄 Arquitetura de Informação para Web.md",
+    "📁🎓Faculdade/📁Arquitetura de Design UX-UI/📁 Unidade 2/📄Prototipação Avançada com Ferramentas Digitais.md",
     "📁🎓Faculdade/📁 Fundamentos de Sistemas Operacionais/📁 Unidade 2/📄Sistemas de Arquivos.md",
     "📁🎓Faculdade/📁 Fundamentos de Sistemas Operacionais/📁 Unidade 2",
     "📁🎓Faculdade/📁 Fundamentos de Sistemas Operacionais/📁 Unidade 1",
@@ -200,25 +214,11 @@
     "Pasted image 20250410214423.png",
     "📁📖Vestibulares/📂 Língua Portuguesa/📂 Morfologia III",
     "📁📖Vestibulares/📂 Língua Portuguesa/📁 Morfologia II/Sem título",
-    "📁🎓Faculdade/📁 Análise e Elicitação de Requisitos/📁 Unidade 2/📄 Processo de Engenharia de Requisitos.md",
     "Pasted image 20250410154529.png",
     "Pasted image 20250410154205.png",
-    "📁🎓Faculdade/📁 Análise e Elicitação de Requisitos/📁 Unidade 1/📄Requisitos Resumo.md",
-    "📁🎓Faculdade/📁 Análise e Elicitação de Requisitos/📁 Unidade 1/📄 Requisitos de Software.md",
     "📁🎓Faculdade/📁 Análise e Elicitação de Requisitos/📁 Unidade 2",
     "📁🎓Faculdade/📁 Análise e Elicitação de Requisitos/📁 Unidade 1",
-    "📁🎓Faculdade/📁Computação Forense/📁 Unidade 2/📄Segurança da Informação e Conformidades.md",
-    "📁🎓Faculdade/📁Computação Forense/📁 Unidade 2/📄Criptografia em Sistemas para Internet.md",
-    "APROFUNDAR DES E AES.md",
-    "📁🎓Faculdade/📁Computação Forense/📁 Unidade 2/📄Numeral.md",
-    "📁🎓Faculdade/📁Computação Forense/📁 Unidade 1/📄 Incidentes, Ataques e Métodos de Prevenção em Segurança.md",
-    "📁🎓Faculdade/📁Computação Forense/📁 Unidade 1/📄Aula 01 - Conceitos Iniciais sobre Computação Forense e Segurança.md",
     "📁🎓Faculdade/📁Computação Forense/📁 Unidade 2",
-    "📁🎓Faculdade/📁Arquitetura de Design UX-UI/📁 Unidade 2/📄Leis e Princípios de UX.md",
-    "📁🎓Faculdade/📁Arquitetura de Design UX-UI/📁 Unidade 2/📄Avaliação de Protótipos com Usuários.md",
-    "📁🎓Faculdade/📁Arquitetura de Design UX-UI/📁 Unidade 2/📄Prototipação Avançada com Ferramentas Digitais.md",
-    "📁🎓Faculdade/📁Arquitetura de Design UX-UI/📁 Unidade 2/📄 Design Interativo, Fluxos de Usuário e Leis de UX.md",
-    "📁🎓Faculdade/📁Arquitetura de Design UX-UI/📁 Unidade 2/📄 Arquitetura de Informação para Web.md",
     "Sem título.canvas"
   ]
 }
