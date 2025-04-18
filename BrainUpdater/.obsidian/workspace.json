@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "📁🎓Faculdade/📁 Fundamentos de Sistemas Operacionais/📁 Unidade 2/📄Sistemas de Arquivos.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "7f05c9429b1cde7c",
@@ -171,8 +172,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "42248a1908a7652f",
+  "active": "3dc281d240a34bb7",
   "lastOpenFiles": [
+    "Pasted image 20250418143229.png",
+    "Pasted image 20250418141749.png",
+    "Pasted image 20250418134739.png",
+    "Pasted image 20250418134450.png",
+    "Pasted image 20250418103848.png",
+    "Pasted image 20250418103701.png",
+    "Pasted image 20250418103458.png",
+    "Pasted image 20250418103245.png",
     "📁🎓Faculdade/📁 Fundamentos de Sistemas Operacionais/📁 Unidade 1/📄Introdução a Sistemas Operacionais.md",
     "📁🎓Faculdade/📁 Fundamentos de Sistemas Operacionais/📁 Unidade 1/📄 Processos e Threads.md",
     "📁🎓Faculdade/📁 Fundamentos de Sistemas Operacionais/📁 Unidade 1/📄Gerenciamento de Memória.md",
@@ -205,17 +214,9 @@
     "📁🎓Faculdade/📁Desenvolvimento Back-End/📂Unidade 2",
     "📁🎓Faculdade/📁Desenvolvimento Back-End/📂Unidade 1",
     "📁🎓Faculdade/📁Desenvolvimento Back-End/📂Unidade 1/📄Primeiros Passos com Rotas e Respostas.md",
-    "📁🎓Faculdade/📁Desenvolvimento Back-End/📂Unidade 1/📄Introdução ao Desenvolvimento Back-End e APIs RESTful.md",
     "Captura de tela de 2025-04-10 22-40-09.png",
-    "Pasted image 20250410224010.png",
-    "Pasted image 20250410221909.png",
-    "Pasted image 20250410221604.png",
-    "Pasted image 20250410215301.png",
-    "Pasted image 20250410214423.png",
     "📁📖Vestibulares/📂 Língua Portuguesa/📂 Morfologia III",
     "📁📖Vestibulares/📂 Língua Portuguesa/📁 Morfologia II/Sem título",
-    "Pasted image 20250410154529.png",
-    "Pasted image 20250410154205.png",
     "📁🎓Faculdade/📁 Análise e Elicitação de Requisitos/📁 Unidade 2",
     "📁🎓Faculdade/📁 Análise e Elicitação de Requisitos/📁 Unidade 1",
     "📁🎓Faculdade/📁Computação Forense/📁 Unidade 2",
