@@ -74,4 +74,53 @@ O dispositivo de hardware envia um sinal para a CPU avisando que:
 
 ___
 ## Realização de E/S
+Quando um dispositivo (teclado, disco, impressora, etc.) precisa se comunicar com a CPU, existem **três métodos principais**:
 
+1. **E/S Programada (Polling)** → CPU fica perguntando: "Você terminou?"
+2. **E/S Orientada a Interrupções** → Dispositivo avisa: "Terminei!"
+3. **DMA (Acesso Direto à Memória)** → Dispositivo fala **diretamente** com a memória, sem incomodar a CPU.
+### E/S Programada
+- A CPU **fica verificando** o status do dispositivo em loop.
+- pouco eficiente o CPU está sempre em uso
+- lento, pois o CPU não faz nada util enquanto espera
+
+### E/S orientada a interrupções
+
+- O dispositivo **avisa a CPU** quando está pronto (via interrupção).
+- A CPU pode fazer outras coisas enquanto espera.
+- Exemplo:
+- Você digita no teclado → gera uma interrupção → CPU trata o input.
+**Prós e Contras**
+
+✅ **Eficiente** (CPU não fica esperando).  
+✅ **Melhor para multitarefa**.  
+❌ **Ainda usa CPU** para transferir dados.
+
+**Usado em:** Teclados, mouses, dispositivos que não transferem grandes volumes.
+
+### DMA - Direct Memory Acess
+
+- O dispositivo **acessa a memória RAM diretamente**, sem passar pela CPU.
+- Só interrompe a CPU quando terminar.
+- Exemplo:
+    - Um SSD copia dados para a RAM via DMA → avisa a CPU depois. 
+
+ **Prós e Contras**
+
+✅ **Super rápido** (CPU não é envolvida na transferência).  
+✅ **Libera a CPU** para outras tarefas.  
+❌ **Mais complexo** (precisa de um controlador DMA).
+
+**Usado em:** Discos, placas de rede, transferência de dados em alta velocidade.
+
+___
+## Camadas do Software E/S
+Em relação a entrada e saída, o software de E/S pode ser organizado em quatro camadas, como mostrado na Figura 3. Cada camada tem uma função bem definida a desempenhar e uma interface bem definida para as camadas adjacentes. A funcionalidade e as interfaces diferem de sistema para sistema; portanto, a discussão que se segue, que examina todas as camadas começando de baixo, não é específica para uma máquina.
+
+![[Pasted image 20250419144003.png]]
+
+Os **tratadores de interrupção** são como sentinelas ágeis em um sistema operacional, prontos para responder a qualquer sinal de emergência dos dispositivos de E/S. Quando um dispositivo precisa de atenção imediata, ele envia um sinal de interrupção, e esses tratadores entram em ação. Sua missão é gerenciar esses eventos inesperados e informar ao sistema operacional que é hora de agir.
+
+Por outro lado, os **drivers de dispositivo** são os tradutores poliglotas do mundo da computação. Eles pegam as desvantagens do sistema operacional - que fala uma língua geral de comandos - e as convertem em dialetos específicos que o hardware pode entender. Graças a eles, o sistema operacional pode se comunicar suavemente com uma variedade de dispositivos, desde impressoras até teclados, garantindo uma interação eficiente e harmoniosa. Quanto ao software do **sistema operacional independente do dispositivo (DID)**, pense nele como um camaleão. Ele se adapta a qualquer ambiente de hardware, fornecendo uma interface consistente para os drivers de dispositivo. Isso simplifica enormemente o desenvolvimento de novos drivers e permite que o mesmo software seja usado em diferentes tipos de hardware sem problemas.  
+
+Finalmente, o **software de E/S no espaço do usuário** é uma ponte entre o usuário e o vasto oceano de hardware. Ele permite que aplicativos acessem dispositivos de E/S por meio de APIs fornecidas pelo sistema operacional, oferecendo uma interface amigável que torna a interação com o hardware uma brisa para qualquer usuário.
