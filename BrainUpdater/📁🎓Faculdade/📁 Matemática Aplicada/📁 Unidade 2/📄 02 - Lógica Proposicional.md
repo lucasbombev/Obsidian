@@ -26,8 +26,17 @@ São palavras que usamos para **ligar proposições** e formar outras mais compl
 | ∨ (ou)              | Disjunção     | "Está chovendo **ou** está frio." (P ∨ Q)                       | Só é falsa se as duas forem F                                         |
 | → (se...então)      | Condicional   | **Se** está chovendo, **então** está úmido." (P → Q)            | Só é falsa se a 1ª for V e a 2ª for F                                 |
 | ↔ (se e somente se) | Bicondicional | "Está chovendo **se e somente se** o céu está nublado." (P ↔ Q) | Só é verdadeira se as duas tiverem o mesmo valor (ambas V ou ambas F) |
+### Precedência dos conectivos
+Os símbolos de pontuação (parênteses), assim como na aritmética, são empregados para priorizar um “cálculo proposicional”.
+
+Se em uma fórmula, os parênteses não são usados, o cálculo proposicional deve seguir a seguinte ordem de prioridade:
+1. **¬ (Negação)** → "Não"
+2. **∧ (E)** e **∨ (OU)** → Têm a mesma precedência (se aparecerem juntos, avalie da esquerda para a direita).
+3. **→ (Condicional)** → "Se...então"
+4. **↔ (Bicondicional)** → "Se e somente se"
+
 ___
-### **4. Tautologia, Contradição e Contingência**
+## Tautologia, Contradição e Contingência
 
 - **Tautologia**: Sempre Verdadeiro (Ex: P ∨ ¬P → "Chove ou não chove").
 - **Contradição**: Sempre Falso (Ex: P ∧ ¬P → "Chove e não chove").
