@@ -1,7 +1,7 @@
 ___
 Dia 1 
-- Português -
-- Algoritmos e Programação - 
+- Português - 
+- Algoritmos e Programação - ✅
 - Fundamentos de Sistemas Operacionais - 
 - Análise de Projetos de Sistemas Web - 
 Dia 2 
