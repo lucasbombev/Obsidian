@@ -1,6 +1,6 @@
 ___
 Dia 1 
-- Português - 
+- Português - REIVSAR
 - Algoritmos e Programação - ✅
 - Fundamentos de Sistemas Operacionais - 
 - Análise de Projetos de Sistemas Web - 
