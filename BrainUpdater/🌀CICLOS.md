@@ -1,3 +1,4 @@
+
 ___
 Dia 1 
 - Português - 
@@ -17,5 +18,8 @@ Dia 3
 dia 4
 - Matemática Básica -
 - Computação Forense -
-- UCE -
-- UCE  -
+- UCE II -
+- UCE III - 
+___
+# Estudar HOJE
+Português  Concurso-> Produção Textual Faculdade -> Fundamentos de S.O faculdade -> Análise de Projetos de Sistemas Web Faculdade
