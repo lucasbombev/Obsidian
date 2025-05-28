@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🌀CICLOS.md",
+                "file": "📁🎓Faculdade/📁 Fundamentos de Sistemas Operacionais/📁 Unidade 3/📄06 - Deadlocks (Impasses).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "🌀CICLOS"
+              "title": "📄06 - Deadlocks (Impasses)"
             }
           }
         ]
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "7f05c9429b1cde7c",
@@ -173,14 +174,21 @@
   },
   "active": "4e483ad50fb758d1",
   "lastOpenFiles": [
-    "📁📖Vestibulares/📁 Redação/📄O Texto Dissertativo-Argumentativo.md",
-    "🌀CICLOS.md",
-    "📁📖Vestibulares/📁 Redação",
+    "📁🎓Faculdade/📁 Fundamentos de Sistemas Operacionais/📁 Unidade 2/📄Sistemas de Arquivos.md",
+    "📁🎓Faculdade/📁 Fundamentos de Sistemas Operacionais/📁 Unidade 3/📄06 - Deadlocks (Impasses).md",
+    "📁🎓Faculdade/📁 Fundamentos de Sistemas Operacionais/📁 Unidade 2/📄Processamento de Entrada e Saída.md",
     "📁📖Vestibulares/📂 Língua Portuguesa/📂 Morfologia III/📄 Pronomes.md",
-    "📁📖Vestibulares/📂 Língua Portuguesa/📁 Morfologia I/📄Morfologia I - Aula III - Derivação prefixal, sufixal, prefixal e sufixal, parassíntese.md",
+    "📁🎓Faculdade/📁 Fundamentos de Sistemas Operacionais/📁 Unidade 3",
     "📁📖Vestibulares/📂 Língua Portuguesa/📁 Morfologia I/📄Morfologia I - Aula I - radical - afixos - vogal temática.md",
     "📁📖Vestibulares/📂 Língua Portuguesa/📁 Morfologia I/📄Morfologia I - Aula II - Composição por justaposição e aglutinação.md",
+    "📁📖Vestibulares/📂 Língua Portuguesa/📁 Morfologia I/📄Morfologia I - Aula III - Derivação prefixal, sufixal, prefixal e sufixal, parassíntese.md",
+    "📁📖Vestibulares/📂 Língua Portuguesa/📁 Morfologia II/📄Substantivo - Classificação e flexão.md",
+    "📁📖Vestibulares/📂 Língua Portuguesa/📁 Morfologia II/📄Numeral.md",
+    "📁📖Vestibulares/📂 Língua Portuguesa/📁 Morfologia II/📄Artigo.md",
     "📁📖Vestibulares/📂 Língua Portuguesa/📁 Morfologia II/📄Adjetivo.md",
+    "🌀CICLOS.md",
+    "📁📖Vestibulares/📁 Redação/📄O Texto Dissertativo-Argumentativo.md",
+    "📁📖Vestibulares/📁 Redação",
     "📄Casos de Uso em UML.md",
     "📁🎓Faculdade/📁Computação Forense/📁 Unidade 2/📄03 - Segurança da Informação e Conformidades.md",
     "📁🎓Faculdade/📁Computação Forense/📁 Unidade 2/📄02 - Criptografia em Sistemas para Internet.md",
@@ -196,12 +204,6 @@
     "📁🎓Faculdade/📁Análise e Projeto de Sistemas Web/📁Fundametos de Engenharia de Sistemas/📄3  - Engenharia de Requisitos.md",
     "📁🎓Faculdade/📁Análise e Projeto de Sistemas Web/📁Fundametos de Engenharia de Sistemas/📄2 - Ciclo de Vida do Desenvolvimento de Sistemas.md",
     "📁🎓Faculdade/📁Análise e Projeto de Sistemas Web/📁Fundametos de Engenharia de Sistemas/📄1 - Visão geral sobre Análise de Projeto de Sistemas.md",
-    "📁🎓Faculdade/📁Análise e Projeto de Sistemas Web/📁 Prototipação e Modelagem para Web/📄7 - Engenharia Web Baseada na UML (UWE).md",
-    "📁🎓Faculdade/📁Análise e Projeto de Sistemas Web/📁 Prototipação e Modelagem para Web/📄5 -  Refinando Requisitos com Prototipação.md",
-    "📁🎓Faculdade/📁Análise e Projeto de Sistemas Web/📁 Prototipação e Modelagem para Web/📄 7 - Engenharia Web Baseada na UML (UWE).md",
-    "📁🎓Faculdade/📁Análise e Projeto de Sistemas Web/📁 Prototipação e Modelagem para Web/📄 6 - Engenharia Web Baseada na UML (UWE).md",
-    "📁🎓Faculdade/📁Arquitetura de Design UX-UI/📁 Unidade 1/📄Aula 1 - A Importância da Arquitetura de Design UX-UI e Design Thinking.md",
-    "📁🎓Faculdade/📁Arquitetura de Design UX-UI/📁 Unidade 2/📄5 - Arquitetura de Informação para Web.md",
     "Pasted image 20250419144003.png",
     "Pasted image 20250419085831.png",
     "Pasted image 20250419083829.png",
@@ -218,7 +220,6 @@
     "📁🎓Faculdade/📁Desenvolvimento Back-End/📂Unidade 1",
     "📁📖Vestibulares/📂 Língua Portuguesa/📂 Morfologia III",
     "📁📖Vestibulares/📂 Língua Portuguesa/📁 Morfologia II/Sem título",
-    "📁🎓Faculdade/📁 Análise e Elicitação de Requisitos/📁 Unidade 2",
     "Sem título.canvas"
   ]
 }
