@@ -1,8 +1,10 @@
 
 ___
 Dia 1 
-- Português - 
+- Português Concurso -
 - Algoritmos e Programação - ✅
+- HTML - b7Web - ✅
+- LATEX -
 - Fundamentos de Sistemas Operacionais - 
 - Análise de Projetos de Sistemas Web - 
 Dia 2 
@@ -22,4 +24,4 @@ dia 4
 - UCE III - 
 ___
 # Estudar HOJE
-Português  Concurso-> Produção Textual Faculdade -> Fundamentos de S.O faculdade -> Análise de Projetos de Sistemas Web Faculdade
+Português  Concurso -> b7WEB HTML -> Produção Textual Faculdade -> LATEX UDEMY -> Fundamentos de S.O faculdade -> Análise de Projetos de Sistemas Web Faculdade
