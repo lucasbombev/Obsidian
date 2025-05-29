@@ -4,7 +4,7 @@ Dia 1
 - Português Concurso -
 - Algoritmos e Programação - ✅
 - HTML - b7Web - ✅
-- LATEX -
+- LATEX - ✅
 - Fundamentos de Sistemas Operacionais - 
 - Análise de Projetos de Sistemas Web - 
 Dia 2 
