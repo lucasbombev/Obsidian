@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🌀CICLOS.md",
+                "file": "📁🎓Faculdade/📁 Fundamentos de Sistemas Operacionais/📁 Unidade 3/📄06 - Deadlocks (Impasses).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "🌀CICLOS"
+              "title": "📄06 - Deadlocks (Impasses)"
             }
           }
         ]
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "7f05c9429b1cde7c",
@@ -173,7 +174,10 @@
   },
   "active": "4e483ad50fb758d1",
   "lastOpenFiles": [
+    "Pasted image 20250530165043.png",
     "📁🎓Faculdade/📁 Fundamentos de Sistemas Operacionais/📁 Unidade 3/📄06 - Deadlocks (Impasses).md",
+    "Pasted image 20250530105956.png",
+    "🌀CICLOS.md",
     "📁🎓Faculdade/📁 Fundamentos de Sistemas Operacionais/📁 Unidade 2/📄Sistemas de Arquivos.md",
     "📁🎓Faculdade/📁 Fundamentos de Sistemas Operacionais/📁 Unidade 2/📄Processamento de Entrada e Saída.md",
     "📁📖Vestibulares/📂 Língua Portuguesa/📂 Morfologia III/📄 Pronomes.md",
@@ -185,7 +189,6 @@
     "📁📖Vestibulares/📂 Língua Portuguesa/📁 Morfologia II/📄Numeral.md",
     "📁📖Vestibulares/📂 Língua Portuguesa/📁 Morfologia II/📄Artigo.md",
     "📁📖Vestibulares/📂 Língua Portuguesa/📁 Morfologia II/📄Adjetivo.md",
-    "🌀CICLOS.md",
     "📁📖Vestibulares/📁 Redação/📄O Texto Dissertativo-Argumentativo.md",
     "📁📖Vestibulares/📁 Redação",
     "📄Casos de Uso em UML.md",
@@ -202,7 +205,6 @@
     "📁🎓Faculdade/📁Análise e Projeto de Sistemas Web/📁Fundametos de Engenharia de Sistemas/📄4 - Elicitação e Modelagem e Requisitos.md",
     "📁🎓Faculdade/📁Análise e Projeto de Sistemas Web/📁Fundametos de Engenharia de Sistemas/📄3  - Engenharia de Requisitos.md",
     "📁🎓Faculdade/📁Análise e Projeto de Sistemas Web/📁Fundametos de Engenharia de Sistemas/📄2 - Ciclo de Vida do Desenvolvimento de Sistemas.md",
-    "📁🎓Faculdade/📁Análise e Projeto de Sistemas Web/📁Fundametos de Engenharia de Sistemas/📄1 - Visão geral sobre Análise de Projeto de Sistemas.md",
     "Pasted image 20250419144003.png",
     "Pasted image 20250419085831.png",
     "Pasted image 20250419083829.png",
@@ -211,7 +213,6 @@
     "Pasted image 20250418141749.png",
     "Pasted image 20250418134739.png",
     "Pasted image 20250418134450.png",
-    "Pasted image 20250418103848.png",
     "📁🎓Faculdade/📁 Fundamentos de Sistemas Operacionais/📁 Unidade 2",
     "📁🎓Faculdade/📁 Fundamentos de Sistemas Operacionais/📁 Unidade 1",
     "📁🎓Faculdade/Pr",
