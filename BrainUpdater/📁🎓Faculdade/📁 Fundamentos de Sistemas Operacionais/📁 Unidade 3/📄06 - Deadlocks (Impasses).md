@@ -1,4 +1,5 @@
 tags: #Faculdade #Concurso 
+bibliografia: Capítulo 6 Tanenbaum Sistemas Operacionais
 ___
 # O que é um Deadlock?
 Um **deadlock** (ou **impasse**) é uma situação indesejável em sistemas operacionais onde dois ou mais processos ficam bloqueados permanentemente, cada um esperando por um recurso que está sendo mantido por outro processo no conjunto.
@@ -39,6 +40,26 @@ ___
 - Usado em sistemas onde deadlocks são raros.
 - Filosofia do “deixa quieto” (Ex: maioria dos sistemas Unix/Linux).  <- segundo o GPT. Suspect...
 ### Detecção e Recuperação de Deadlocks
+Permite que o deadlock ocorra, mas o sistema o detecta e se recupera.
+- **Detecção**:
+    - Algoritmos como **Grafo de Espera** ou **Algoritmo do Banqueiro** (para sistemas com um único recurso de cada tipo).
+#### Algoritmo do Banqueiro
 
-Nesta estratégia, o sistema não tenta evitar a ocorrência dos impasses. Em vez disso, ele os deixa ocorrer, tenta detectá-los quando acontecem e então toma alguma medida para recuperar-se após o fato.
+Um método para **evitar** deadlocks garantindo que o sistema nunca entre em estado inseguro.
+
+### **Funcionamento:**
+
+1. Cada processo declara sua **necessidade máxima** de recursos.
+2. O sistema só concede recursos se isso não levar a um possível deadlock.
+3. Usa **matrizes** para controle:
+    - **Disponível**: Recursos livres.
+    - **Alocação**: Recursos já distribuídos.
+    - **Necessidade**: Recursos ainda requeridos.
+- **Recuperação**:
+    - **Terminação de Processos**: Matar todos os processos no deadlock ou um por vez até resolver.        
+    - **Preempção de Recursos**: Retirar recursos de processos (pode causar starvation).
+
+### **Ignorar o Problema (Averstruz Algorithm)**
+
+Muitos sistemas (como Windows e Linux) **não implementam prevenção ou detecção**, pois deadlocks são raros em certos ambientes. Reiniciar o sistema pode ser a "solução".
 
