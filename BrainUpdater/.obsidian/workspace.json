@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "📁🎓Faculdade/📁 Fundamentos de Sistemas Operacionais/📁 Unidade 3/📄07 - Virtualização e Nuvem.md",
-                "mode": "preview",
+                "file": "📁📖Vestibulares/📁 Redação/📄 Artigo Científico.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "📄07 - Virtualização e Nuvem"
+              "title": "📄 Artigo Científico"
             }
           }
         ]
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "7f05c9429b1cde7c",
@@ -162,24 +161,26 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-git:Open Git source control": false,
       "switcher:Abrir a troca rápida": false,
       "graph:Abrir visualização em gráfico": false,
       "canvas:Criar novo canvas": false,
       "daily-notes:Abrir a nota de hoje": false,
       "templates:Inserir modelo": false,
-      "command-palette:Abrir paleta de comandos": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-git:Open Git source control": false
+      "command-palette:Abrir paleta de comandos": false
     }
   },
   "active": "29bbb30752ace199",
   "lastOpenFiles": [
+    "🌀CICLOS.md",
+    "📁📖Vestibulares/📁 Redação/📄 Artigo Científico.md",
+    "📄Casos de Uso em UML.md",
+    "📁🎓Faculdade/📁 Fundamentos de Sistemas Operacionais/📁 Unidade 3/📄06 - Deadlocks (Impasses).md",
     "📁🎓Faculdade/📁 Fundamentos de Sistemas Operacionais/📁 Unidade 3/📄07 - Virtualização e Nuvem.md",
     "Pasted image 20250606004357.png",
     "Pasted image 20250606001802.png",
     "Pasted image 20250606000640.png",
-    "📁🎓Faculdade/📁 Fundamentos de Sistemas Operacionais/📁 Unidade 3/📄06 - Deadlocks (Impasses).md",
-    "🌀CICLOS.md",
     "Pasted image 20250530165043.png",
     "Pasted image 20250530105956.png",
     "📁🎓Faculdade/📁 Fundamentos de Sistemas Operacionais/📁 Unidade 2/📄Sistemas de Arquivos.md",
@@ -195,7 +196,6 @@
     "📁📖Vestibulares/📂 Língua Portuguesa/📁 Morfologia II/📄Adjetivo.md",
     "📁📖Vestibulares/📁 Redação/📄O Texto Dissertativo-Argumentativo.md",
     "📁📖Vestibulares/📁 Redação",
-    "📄Casos de Uso em UML.md",
     "📁🎓Faculdade/📁Computação Forense/📁 Unidade 2/📄03 - Segurança da Informação e Conformidades.md",
     "📁🎓Faculdade/📁Computação Forense/📁 Unidade 2/📄02 - Criptografia em Sistemas para Internet.md",
     "📁🎓Faculdade/📁Computação Forense/📁 Unidade 1/📄 0 - Incidentes, Ataques e Métodos de Prevenção em Segurança.md",
