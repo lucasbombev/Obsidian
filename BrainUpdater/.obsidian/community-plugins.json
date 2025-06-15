@@ -1,5 +1,7 @@
 [
-  "dataview",
+  "advanced-canvas",
   "table-editor-obsidian",
-  "obsidian-git"
+  "editing-toolbar",
+  "execute-code",
+  "obsidian-image-toolkit"
 ]
