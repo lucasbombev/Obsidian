@@ -17,6 +17,10 @@ Para visualizar e editar estas notas:
    ```
 3. Abra o diretório clonado como um Vault no Obsidian.
 
+4. Se houver algum problema de compatibilidade recomendo que instale os seguintes plugins da comunidade:
+![alt text](image.png)
+
+
 ## Funcionalidades
 
 - **Links Internos**: Conexões entre notas para criar uma rede de conhecimento interligada.
