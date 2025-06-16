@@ -16,3 +16,9 @@ Atribuação é representada pelo símbolo <font color="#4f81bd">=</font> e deve
 Uma sequência de passos para realizar um processo. Todo programa de computador é um algoritmo.
 
 ## <center>Uma Rápida Revisão de Conceitos Matemáticos</center>
+### Números
+- Números naturais: números inteiros maiores que zero
+- Número inteiros: números naturais e seus opostos
+- Números racionais: números que podem ser representados sob forma de fração de números inteiros
+- Números irracionais: Números com casas decimais infinitas que não se repetem
+- Números reais: conjunto formado pela união dos racionais e irracionais
