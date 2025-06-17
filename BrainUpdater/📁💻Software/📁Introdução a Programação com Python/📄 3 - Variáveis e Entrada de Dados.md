@@ -98,3 +98,5 @@ print(nome[4])
 ```
 
 
+## Fatiamento de Strings
+O fatiamento permite dividirmos a string em pedaços menores
