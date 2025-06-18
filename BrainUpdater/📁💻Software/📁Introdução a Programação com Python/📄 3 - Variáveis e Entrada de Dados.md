@@ -100,3 +100,29 @@ print(nome[4])
 
 ## Fatiamento de Strings
 O fatiamento permite dividirmos a string em pedaços menores
+existem vários recursos de fatiamento, se precisar manipular strings, pesquise.
+
+## Sequências e Tempo
+O programa é executado linha por linha, executando as operações descritas no programa uma após a outra, assim como lemos textos no nosso alfabeto.
+
+Exemplo de sequência de tempo:
+
+
+```python
+divida = 0 #1
+compra = 100 #2
+divida += compra #3
+compra = 200 #4
+divida += compra #5
+compra = 300 #6
+divida += compra #7
+compra += 0 #8
+#note que o programa é executado linha a linnha.
+print(divida)
+
+```
+
+em 2 temos a primeira compra no valor de 100, no entanto a dívida continua sendo 0, pois ainda não alteramos seu valor de forma a adicionar a compra realizada. isso é feito em 3. observe que estamos atualizando o valor da dívida com o SEU valor ATUAL mais o valor ATUAL de COMPRA.
+Isso se repete até o valor final. em 8 o valor da compra é 0, representado que a pessoa não comprou mais nada.
+
+## Rastreamento
