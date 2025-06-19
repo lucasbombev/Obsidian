@@ -126,3 +126,19 @@ em 2 temos a primeira compra no valor de 100, no entanto a dívida continua send
 Isso se repete até o valor final. em 8 o valor da compra é 0, representado que a pessoa não comprou mais nada.
 
 ## Rastreamento
+Rastreamento == teste de mesa == debug.
+para programar corretamente você deve entender o que cada linha do programa significa e os efeitos que ele produz.
+
+## Entrada de Dados
+a função <font color="#4f81bd">input</font> é utilizada para solicitar dados ao usuário.
+### Conversão de Entrada de Dados
+A função input sempre retorna um valor do tipo string, por isso se quisermos trabalhar com números, temos que converter utilizando a função <font color="#4f81bd">int ou float</font>
+
+```python
+ano = int(input("Anos de serviço:"))
+valor_por_ano = float(input("Valor por ano:"))
+bonus = ano * valor_por_ano
+print(bonus)
+
+```
+
